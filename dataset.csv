@@ -1,0 +1,1001 @@
+Property_ID,Location,BHK,Bathrooms,Furnishing_Status,Super_Builtup_Area,Carpet_Area,Property_Type,Age_of_Property,Floor,Total_Floors,Parking,Power_Backup,Gated_Security,Nearby_Metro,Nearby_School,Nearby_Hospital,Price_in_Lakhs
+PROP0000,Golf Course Road,2,2,Unfurnished,823,659,Builder Floor,12,3,5,2,No,Yes,1.2,2.87,3.35,91.37
+PROP0001,Palam Vihar,3,4,Unfurnished,4735,3912,Penthouse,4,7,8,0,No,No,1.36,1.06,1.77,835.1
+PROP0002,DLF Phase 1,1,4,Semi-Furnished,4252,3508,Penthouse,4,15,19,0,No,Yes,2.45,2.89,3.45,580.91
+PROP0003,Golf Course Road,5,4,Semi-Furnished,4198,3468,Builder Floor,9,9,16,0,Yes,Yes,1.9,2.71,0.2,740.14
+PROP0004,Sector 57,5,2,Unfurnished,4514,3831,Penthouse,9,11,20,0,No,Yes,4.58,0.88,3.7,1114.32
+PROP0005,DLF Phase 1,4,3,Unfurnished,3740,3162,Studio,6,11,20,2,No,No,1.9,2.43,2.49,331.69
+PROP0006,DLF Phase 1,2,2,Fully-Furnished,1238,1000,Builder Floor,14,4,5,1,No,Yes,1.93,2.99,4.08,115.9
+PROP0007,Golf Course Road,1,4,Fully-Furnished,2476,2026,Studio,6,15,20,2,No,No,1.98,0.83,4.78,270.05
+PROP0008,Sector 56,2,2,Semi-Furnished,3837,3150,Studio,14,0,7,1,Yes,Yes,4.2,1.37,4.64,441.94
+PROP0009,Sector 57,1,2,Fully-Furnished,1977,1617,Independent House,2,8,15,2,Yes,No,3.29,1.61,4.56,440.86
+PROP0010,Golf Course Road,4,2,Fully-Furnished,3687,3096,Builder Floor,18,11,17,3,No,Yes,3.11,0.96,2.61,476.44
+PROP0011,Sector 57,4,3,Fully-Furnished,902,745,Penthouse,9,4,8,3,Yes,No,1.74,0.14,1.86,272.06
+PROP0012,Sector 57,5,1,Fully-Furnished,2085,1727,Studio,14,19,22,3,No,Yes,4.11,0.74,2.38,333.73
+PROP0013,DLF Phase 1,2,1,Unfurnished,3106,2617,Independent House,2,2,11,3,No,No,0.29,0.92,3.48,386.49
+PROP0014,Palam Vihar,5,2,Semi-Furnished,3454,2902,Builder Floor,5,4,8,0,No,No,4.37,1.39,4.43,504.57
+PROP0015,Sector 57,2,1,Fully-Furnished,3223,2599,Builder Floor,11,1,9,0,Yes,Yes,2.61,0.6,1.11,601.09
+PROP0016,Sushant Lok,5,1,Unfurnished,3730,3117,Apartment,14,13,14,2,No,No,2.05,2.63,4.6,334.4
+PROP0017,DLF Phase 1,3,2,Unfurnished,825,677,Apartment,5,1,8,2,Yes,No,2.54,2.14,4.09,78.91
+PROP0018,Sector 56,3,2,Unfurnished,1223,996,Studio,12,12,18,3,Yes,Yes,3.37,0.35,4.9,150.22
+PROP0019,Palam Vihar,3,4,Fully-Furnished,4449,3570,Apartment,18,6,7,1,No,Yes,0.16,1.99,4.41,452.9
+PROP0020,Sushant Lok,3,1,Fully-Furnished,3663,3019,Studio,2,9,13,3,Yes,No,4.37,2.0,1.47,425.68
+PROP0021,Sushant Lok,1,3,Semi-Furnished,1274,1041,Penthouse,7,12,17,2,Yes,Yes,2.29,2.87,0.62,188.17
+PROP0022,Sector 56,3,2,Fully-Furnished,4336,3523,Studio,7,15,23,3,No,Yes,1.78,0.11,0.65,745.88
+PROP0023,Palam Vihar,4,4,Fully-Furnished,1817,1516,Apartment,19,13,17,2,Yes,Yes,0.78,0.82,1.53,208.59
+PROP0024,DLF Phase 1,4,3,Unfurnished,2808,2354,Penthouse,14,10,13,3,Yes,No,2.25,2.79,3.11,350.42
+PROP0025,Sector 45,1,1,Semi-Furnished,1409,1144,Apartment,3,9,11,1,No,No,2.53,2.8,4.04,211.45
+PROP0026,Palam Vihar,3,4,Fully-Furnished,3782,3034,Studio,18,5,9,3,No,No,2.08,2.19,4.51,316.31
+PROP0027,Sector 56,3,2,Fully-Furnished,3600,3032,Independent House,2,3,7,1,Yes,No,3.43,2.32,3.16,919.19
+PROP0028,Sushant Lok,3,3,Unfurnished,1686,1349,Builder Floor,12,0,5,1,No,No,2.16,0.37,0.13,162.55
+PROP0029,DLF Phase 1,5,2,Unfurnished,4426,3748,Apartment,7,6,13,2,No,No,4.81,1.59,1.01,439.31
+PROP0030,Palam Vihar,2,1,Fully-Furnished,2485,2065,Studio,15,8,17,1,Yes,No,3.04,0.77,0.59,228.04
+PROP0031,Sector 45,5,3,Semi-Furnished,2028,1655,Penthouse,12,7,9,0,Yes,Yes,4.06,0.63,1.88,561.36
+PROP0032,Sector 45,2,1,Semi-Furnished,1439,1168,Apartment,2,4,9,0,No,No,0.64,2.45,2.56,254.94
+PROP0033,Sector 57,3,1,Unfurnished,1917,1534,Apartment,15,18,27,0,Yes,No,2.05,0.49,0.31,256.09
+PROP0034,Sector 57,3,4,Unfurnished,892,724,Builder Floor,8,9,12,2,No,Yes,1.75,1.46,1.81,154.37
+PROP0035,Golf Course Road,5,2,Fully-Furnished,3249,2621,Studio,13,10,11,0,No,Yes,2.89,2.82,0.98,426.54
+PROP0036,Sector 56,5,3,Unfurnished,4337,3602,Independent House,12,14,16,2,Yes,Yes,4.32,0.64,3.27,882.11
+PROP0037,Palam Vihar,2,1,Fully-Furnished,3105,2509,Penthouse,6,5,11,2,Yes,No,0.48,2.94,2.37,604.75
+PROP0038,Palam Vihar,4,1,Semi-Furnished,1720,1421,Studio,14,14,19,0,No,Yes,0.46,2.98,2.53,175.59
+PROP0039,Golf Course Road,2,3,Semi-Furnished,941,780,Penthouse,6,4,5,1,No,No,4.27,1.71,2.2,165.82
+PROP0040,Sushant Lok,5,1,Fully-Furnished,1701,1386,Apartment,5,18,19,3,No,No,1.14,0.59,4.78,237.52
+PROP0041,Sushant Lok,5,4,Unfurnished,2547,2042,Builder Floor,1,18,22,2,No,No,3.38,1.02,1.15,350.11
+PROP0042,Golf Course Road,1,4,Semi-Furnished,3990,3199,Builder Floor,8,9,13,0,Yes,Yes,2.76,1.33,2.63,513.56
+PROP0043,Sushant Lok,5,4,Unfurnished,1588,1272,Independent House,16,11,17,2,No,Yes,4.18,1.0,3.71,179.98
+PROP0044,Sector 57,1,4,Semi-Furnished,3823,3199,Builder Floor,4,3,9,1,Yes,No,0.71,0.91,2.83,685.66
+PROP0045,Palam Vihar,4,1,Fully-Furnished,4441,3623,Apartment,11,17,23,1,Yes,No,0.74,2.92,4.65,579.44
+PROP0046,Golf Course Road,2,3,Fully-Furnished,2706,2272,Independent House,0,15,16,0,No,No,2.83,0.54,1.95,536.11
+PROP0047,Palam Vihar,2,3,Fully-Furnished,4250,3491,Studio,9,7,16,2,Yes,Yes,4.74,2.23,2.37,447.38
+PROP0048,Sector 45,1,3,Semi-Furnished,3129,2574,Builder Floor,10,3,10,3,Yes,No,2.13,0.1,0.53,495.89
+PROP0049,Sector 57,2,3,Unfurnished,3475,2869,Independent House,15,11,18,3,No,Yes,1.7,1.83,3.08,538.19
+PROP0050,DLF Phase 1,5,2,Unfurnished,3010,2515,Apartment,13,1,8,2,Yes,No,3.07,2.76,1.51,275.59
+PROP0051,Sector 57,3,3,Unfurnished,2745,2233,Penthouse,7,3,5,2,Yes,Yes,4.66,0.94,0.89,664.02
+PROP0052,Golf Course Road,1,2,Semi-Furnished,1785,1438,Penthouse,16,4,6,2,No,No,4.2,0.64,2.77,224.26
+PROP0053,DLF Phase 1,2,2,Semi-Furnished,2073,1716,Apartment,17,2,8,0,No,Yes,4.98,1.99,2.71,142.28
+PROP0054,Sector 45,1,4,Semi-Furnished,2017,1646,Apartment,11,8,15,1,No,Yes,0.21,2.17,0.47,288.76
+PROP0055,Golf Course Road,1,2,Semi-Furnished,3165,2602,Penthouse,16,17,20,3,No,Yes,0.65,2.1,3.52,439.86
+PROP0056,Sector 56,3,1,Semi-Furnished,1303,1084,Independent House,13,10,14,0,No,Yes,3.09,1.03,3.16,239.93
+PROP0057,Palam Vihar,5,2,Unfurnished,4650,3834,Penthouse,15,2,5,2,No,Yes,4.12,0.83,1.03,720.14
+PROP0058,Sector 45,1,4,Semi-Furnished,3826,3179,Apartment,13,1,8,2,No,Yes,1.5,2.87,2.4,492.83
+PROP0059,Palam Vihar,2,2,Semi-Furnished,2486,2056,Builder Floor,8,8,15,1,Yes,No,1.27,2.78,3.63,302.29
+PROP0060,Sushant Lok,4,1,Unfurnished,1466,1227,Studio,3,13,17,2,Yes,No,3.96,1.43,2.69,150.05
+PROP0061,Sector 56,1,1,Semi-Furnished,4504,3762,Builder Floor,10,3,10,0,No,No,0.38,2.55,2.04,644.11
+PROP0062,Sector 56,1,1,Unfurnished,4259,3520,Builder Floor,5,8,13,0,Yes,No,1.91,1.41,1.68,643.67
+PROP0063,Sector 45,3,4,Unfurnished,3831,3194,Apartment,14,12,13,1,Yes,Yes,2.58,1.33,3.09,534.17
+PROP0064,Sector 56,5,4,Fully-Furnished,1940,1636,Penthouse,4,17,21,0,No,No,2.85,0.55,4.7,610.58
+PROP0065,DLF Phase 1,4,3,Fully-Furnished,2490,2045,Independent House,10,14,21,3,Yes,Yes,3.67,1.34,3.39,370.2
+PROP0066,Sector 56,2,4,Fully-Furnished,1231,1010,Builder Floor,17,9,11,0,No,Yes,1.84,1.66,0.47,180.6
+PROP0067,Palam Vihar,4,1,Fully-Furnished,1593,1335,Penthouse,12,15,17,0,Yes,Yes,3.1,0.17,2.36,319.78
+PROP0068,Palam Vihar,2,1,Semi-Furnished,4088,3389,Independent House,10,11,12,0,No,No,2.97,1.39,4.47,517.06
+PROP0069,Golf Course Road,5,4,Fully-Furnished,3803,3055,Builder Floor,13,19,21,3,Yes,Yes,2.78,2.37,0.56,647.93
+PROP0070,Palam Vihar,2,2,Unfurnished,3292,2780,Independent House,17,4,12,2,Yes,No,3.24,2.07,4.95,322.14
+PROP0071,Golf Course Road,3,4,Semi-Furnished,4562,3656,Penthouse,18,1,9,0,Yes,No,1.37,1.94,4.75,687.18
+PROP0072,Palam Vihar,3,4,Fully-Furnished,3249,2720,Studio,14,9,17,1,No,No,0.51,2.74,0.48,327.19
+PROP0073,DLF Phase 1,3,1,Unfurnished,2761,2313,Penthouse,8,0,1,3,Yes,No,0.68,0.15,4.67,389.64
+PROP0074,Golf Course Road,3,3,Semi-Furnished,2229,1889,Apartment,7,6,7,1,Yes,No,1.2,1.72,1.88,311.63
+PROP0075,Sector 57,4,1,Semi-Furnished,4749,3812,Independent House,19,16,20,0,No,Yes,2.55,2.38,4.24,806.93
+PROP0076,Sushant Lok,5,3,Fully-Furnished,1147,951,Studio,0,15,21,1,No,Yes,4.22,1.67,2.15,160.16
+PROP0077,Sector 45,2,1,Semi-Furnished,4709,3867,Independent House,3,2,10,0,Yes,No,3.54,1.04,2.26,1068.01
+PROP0078,Palam Vihar,2,4,Unfurnished,4272,3488,Independent House,13,13,15,3,Yes,Yes,3.97,0.5,3.21,501.24
+PROP0079,Sector 56,3,1,Semi-Furnished,1345,1082,Builder Floor,1,9,12,1,Yes,No,1.82,2.67,3.89,278.2
+PROP0080,Palam Vihar,3,1,Unfurnished,3172,2626,Apartment,15,6,12,1,Yes,Yes,2.08,1.47,0.27,311.64
+PROP0081,Sector 56,1,1,Semi-Furnished,4439,3657,Independent House,2,16,20,0,No,Yes,2.03,2.65,3.01,903.89
+PROP0082,Sushant Lok,5,4,Fully-Furnished,3201,2577,Penthouse,7,5,7,0,Yes,Yes,1.04,1.8,1.01,726.85
+PROP0083,Sushant Lok,4,4,Unfurnished,4610,3829,Penthouse,5,3,10,2,Yes,Yes,0.4,2.06,1.8,854.02
+PROP0084,Sushant Lok,2,4,Semi-Furnished,4760,3983,Builder Floor,15,16,20,0,No,Yes,3.0,2.43,1.81,426.3
+PROP0085,Sector 56,1,4,Semi-Furnished,2574,2157,Apartment,15,8,16,0,Yes,Yes,4.95,2.01,2.4,293.63
+PROP0086,Palam Vihar,1,3,Semi-Furnished,2384,2015,Apartment,6,3,11,2,Yes,Yes,0.92,1.25,1.74,277.18
+PROP0087,Sushant Lok,2,3,Unfurnished,4732,3882,Penthouse,12,6,13,0,Yes,Yes,0.33,1.59,0.63,646.06
+PROP0088,DLF Phase 1,4,2,Unfurnished,3635,3081,Studio,12,1,10,0,No,Yes,3.92,2.43,0.81,284.88
+PROP0089,Golf Course Road,1,4,Unfurnished,1287,1085,Builder Floor,4,16,20,2,No,Yes,1.34,1.18,0.26,165.99
+PROP0090,Sector 56,1,3,Fully-Furnished,977,796,Builder Floor,19,7,14,3,Yes,Yes,4.17,1.23,2.4,121.47
+PROP0091,Sector 56,5,1,Fully-Furnished,3171,2562,Penthouse,17,14,15,3,Yes,Yes,3.55,0.38,4.78,778.31
+PROP0092,Palam Vihar,4,4,Unfurnished,4706,3867,Penthouse,14,14,18,0,No,Yes,4.73,2.75,0.67,679.46
+PROP0093,Sector 56,1,2,Semi-Furnished,4345,3563,Studio,17,7,9,0,Yes,No,2.1,0.36,4.74,422.71
+PROP0094,Sector 56,4,2,Fully-Furnished,3638,3015,Studio,1,15,24,2,Yes,Yes,3.34,1.98,3.69,742.26
+PROP0095,Sushant Lok,2,2,Unfurnished,1384,1147,Apartment,9,18,23,2,No,Yes,2.38,1.3,3.22,121.22
+PROP0096,Palam Vihar,3,1,Semi-Furnished,1867,1563,Builder Floor,12,10,13,3,No,Yes,3.19,1.28,3.26,217.88
+PROP0097,Sushant Lok,1,3,Fully-Furnished,4477,3695,Builder Floor,17,1,5,1,No,Yes,2.3,2.07,4.15,375.91
+PROP0098,Golf Course Road,5,1,Semi-Furnished,1567,1261,Penthouse,14,16,22,0,Yes,Yes,1.02,0.29,0.62,343.77
+PROP0099,Golf Course Road,2,4,Semi-Furnished,1969,1659,Apartment,11,15,16,1,Yes,Yes,2.59,1.82,2.57,233.2
+PROP0100,Sushant Lok,4,2,Semi-Furnished,1344,1096,Builder Floor,14,14,21,1,Yes,No,2.69,2.34,3.52,142.99
+PROP0101,Golf Course Road,2,1,Semi-Furnished,3639,3087,Apartment,12,12,20,2,Yes,No,4.07,2.5,2.98,383.16
+PROP0102,Palam Vihar,1,1,Fully-Furnished,4764,3839,Apartment,17,14,21,0,No,No,3.7,0.59,4.18,380.67
+PROP0103,Sector 45,4,3,Fully-Furnished,1929,1635,Penthouse,14,3,10,0,Yes,Yes,3.35,2.7,0.45,519.58
+PROP0104,Sushant Lok,3,3,Fully-Furnished,2796,2249,Apartment,10,15,24,2,Yes,Yes,0.66,2.0,3.48,334.62
+PROP0105,DLF Phase 1,2,2,Unfurnished,3464,2811,Studio,18,11,15,1,No,Yes,3.63,2.66,2.72,192.94
+PROP0106,DLF Phase 1,1,1,Fully-Furnished,4997,4009,Studio,2,3,10,2,No,No,2.55,1.51,1.96,456.38
+PROP0107,Sector 56,5,1,Semi-Furnished,1240,1035,Independent House,6,2,11,3,Yes,Yes,4.48,1.67,1.77,321.7
+PROP0108,Golf Course Road,4,3,Fully-Furnished,2893,2437,Penthouse,13,16,21,0,No,Yes,4.61,2.77,3.14,557.1
+PROP0109,DLF Phase 1,2,1,Semi-Furnished,2417,1986,Independent House,13,17,19,3,No,No,0.37,2.71,4.47,247.44
+PROP0110,Sector 56,2,1,Unfurnished,4436,3754,Studio,12,17,22,2,Yes,No,4.12,1.4,2.53,477.97
+PROP0111,Sector 45,3,1,Semi-Furnished,2799,2321,Independent House,11,16,20,0,Yes,Yes,0.28,0.9,4.14,629.79
+PROP0112,Palam Vihar,3,3,Semi-Furnished,1266,1052,Penthouse,8,11,19,3,Yes,Yes,1.9,1.24,2.07,243.3
+PROP0113,Palam Vihar,5,2,Semi-Furnished,3464,2917,Penthouse,0,3,8,3,Yes,Yes,2.76,1.22,0.6,911.77
+PROP0114,Palam Vihar,5,4,Unfurnished,4037,3289,Apartment,18,11,20,1,No,Yes,0.83,0.93,0.4,410.59
+PROP0115,DLF Phase 1,1,2,Fully-Furnished,812,663,Builder Floor,10,19,28,0,No,No,3.76,0.88,0.35,75.29
+PROP0116,Sector 45,1,4,Fully-Furnished,4407,3725,Apartment,18,14,17,3,Yes,Yes,0.14,2.6,1.96,582.36
+PROP0117,DLF Phase 1,5,1,Unfurnished,1581,1336,Penthouse,17,15,21,3,Yes,Yes,0.93,0.3,1.75,217.46
+PROP0118,Golf Course Road,5,2,Semi-Furnished,3118,2646,Studio,11,4,10,1,No,No,2.95,2.07,3.62,368.99
+PROP0119,DLF Phase 1,4,4,Fully-Furnished,2546,2151,Studio,0,14,18,3,Yes,Yes,3.6,0.6,3.74,329.33
+PROP0120,Sector 45,3,3,Unfurnished,3822,3081,Apartment,18,16,19,3,Yes,Yes,4.59,1.1,0.35,467.54
+PROP0121,Sector 45,1,3,Fully-Furnished,2358,1983,Penthouse,19,17,18,3,Yes,No,3.56,0.28,1.18,414.49
+PROP0122,Golf Course Road,3,2,Unfurnished,4453,3653,Studio,16,4,11,1,Yes,No,3.39,0.88,1.44,389.71
+PROP0123,Sector 45,3,2,Semi-Furnished,3868,3286,Penthouse,4,12,17,3,No,Yes,2.03,2.33,2.78,1087.87
+PROP0124,Sector 45,5,1,Fully-Furnished,3520,2899,Studio,2,18,25,3,Yes,No,0.11,2.67,0.81,824.99
+PROP0125,Palam Vihar,4,2,Unfurnished,4144,3429,Penthouse,1,12,13,0,No,No,0.69,0.74,0.76,861.49
+PROP0126,Golf Course Road,2,1,Fully-Furnished,3966,3277,Independent House,2,17,25,0,Yes,Yes,2.72,1.44,4.72,802.69
+PROP0127,Sector 57,4,1,Fully-Furnished,950,775,Penthouse,7,13,16,1,Yes,No,3.41,1.46,4.04,279.92
+PROP0128,Sector 57,4,3,Fully-Furnished,2457,1974,Penthouse,15,3,10,2,No,Yes,2.15,2.63,0.99,617.03
+PROP0129,Sector 45,3,3,Fully-Furnished,4709,3978,Apartment,5,3,6,0,Yes,Yes,3.68,2.31,2.09,962.32
+PROP0130,Sector 57,4,4,Unfurnished,1328,1115,Independent House,12,19,22,1,No,Yes,2.66,1.59,1.84,259.24
+PROP0131,Sector 57,1,3,Semi-Furnished,3895,3143,Builder Floor,15,19,28,3,Yes,Yes,0.46,2.05,3.98,547.91
+PROP0132,Sector 45,3,3,Unfurnished,4893,4104,Apartment,15,18,20,3,Yes,No,1.04,2.56,2.6,647.36
+PROP0133,Sector 57,1,2,Unfurnished,1019,847,Builder Floor,2,12,16,1,Yes,Yes,4.22,0.13,0.73,174.09
+PROP0134,DLF Phase 1,2,3,Unfurnished,3665,3006,Studio,12,11,17,3,Yes,Yes,3.65,1.27,3.72,255.4
+PROP0135,Sector 56,3,4,Semi-Furnished,2766,2247,Builder Floor,13,6,9,3,Yes,Yes,4.48,2.73,2.04,436.54
+PROP0136,Golf Course Road,2,2,Fully-Furnished,3232,2724,Penthouse,7,11,18,2,No,Yes,0.68,2.25,1.39,689.5
+PROP0137,Sector 56,3,4,Fully-Furnished,1158,966,Builder Floor,11,3,10,3,No,No,4.95,1.67,1.94,190.9
+PROP0138,Sector 45,5,3,Fully-Furnished,980,810,Apartment,7,1,6,0,Yes,No,1.13,1.64,2.54,222.37
+PROP0139,Palam Vihar,4,4,Semi-Furnished,3600,2989,Apartment,8,1,4,3,Yes,No,0.16,1.11,1.78,492.28
+PROP0140,Golf Course Road,5,2,Fully-Furnished,4257,3424,Builder Floor,0,4,6,1,No,Yes,4.99,1.61,1.29,890.1
+PROP0141,Sector 45,2,1,Semi-Furnished,4084,3363,Apartment,5,9,13,2,No,No,1.48,2.0,2.05,673.37
+PROP0142,Palam Vihar,4,4,Fully-Furnished,3083,2496,Apartment,18,9,13,3,Yes,No,3.37,1.31,0.19,332.47
+PROP0143,Sector 56,3,4,Fully-Furnished,1219,987,Builder Floor,10,8,16,1,Yes,Yes,0.97,2.17,3.89,241.16
+PROP0144,Sector 45,4,2,Unfurnished,3689,3073,Independent House,10,12,20,0,No,No,2.94,2.6,0.94,726.74
+PROP0145,Golf Course Road,1,2,Semi-Furnished,1815,1534,Independent House,12,6,11,3,Yes,Yes,4.53,0.55,0.32,248.08
+PROP0146,Golf Course Road,4,4,Unfurnished,4626,3794,Studio,10,4,10,2,No,No,1.67,1.41,3.3,494.31
+PROP0147,Sushant Lok,1,3,Unfurnished,4320,3500,Apartment,17,9,17,3,Yes,No,3.38,1.28,3.89,271.47
+PROP0148,DLF Phase 1,4,4,Unfurnished,3779,3145,Builder Floor,14,9,10,1,No,No,1.02,2.09,4.09,336.85
+PROP0149,Sector 57,1,2,Semi-Furnished,4785,4036,Apartment,0,5,10,2,No,No,3.16,0.82,2.52,770.64
+PROP0150,Palam Vihar,2,1,Semi-Furnished,931,779,Penthouse,6,18,22,3,Yes,Yes,1.75,1.96,1.11,173.99
+PROP0151,Sushant Lok,5,1,Fully-Furnished,3892,3282,Apartment,12,7,11,0,No,Yes,1.13,2.64,3.71,477.34
+PROP0152,Sector 57,3,3,Unfurnished,2187,1808,Apartment,11,0,2,2,Yes,No,1.63,1.31,3.53,315.17
+PROP0153,Sector 57,4,4,Fully-Furnished,4605,3857,Independent House,17,16,17,0,Yes,Yes,0.98,2.74,1.31,1012.08
+PROP0154,Sector 45,5,1,Unfurnished,1920,1549,Builder Floor,18,6,12,1,Yes,No,4.52,2.98,4.53,267.24
+PROP0155,Sector 57,3,4,Semi-Furnished,3844,3142,Apartment,14,13,20,3,Yes,No,2.05,0.41,0.61,579.72
+PROP0156,DLF Phase 1,3,2,Semi-Furnished,4486,3676,Independent House,7,16,21,0,No,No,1.3,0.78,4.92,575.9
+PROP0157,Golf Course Road,1,1,Semi-Furnished,974,804,Studio,18,8,16,1,Yes,No,2.3,2.86,4.32,72.7
+PROP0158,Sushant Lok,2,3,Unfurnished,2470,2090,Independent House,9,16,25,3,Yes,No,1.67,2.88,3.47,280.15
+PROP0159,Sector 57,2,2,Semi-Furnished,4001,3375,Independent House,6,4,6,1,Yes,No,3.75,0.38,4.7,818.72
+PROP0160,Sector 45,5,3,Unfurnished,2710,2186,Independent House,17,19,23,0,Yes,Yes,4.86,0.14,3.64,497.71
+PROP0161,DLF Phase 1,2,2,Fully-Furnished,1922,1554,Apartment,15,7,16,1,No,Yes,2.25,0.57,1.03,167.07
+PROP0162,Sector 56,4,1,Unfurnished,1723,1409,Apartment,19,5,10,2,Yes,No,4.32,2.99,2.27,192.83
+PROP0163,Golf Course Road,2,3,Fully-Furnished,1352,1101,Studio,5,10,13,3,No,Yes,2.87,0.62,0.45,177.63
+PROP0164,Golf Course Road,5,3,Unfurnished,4399,3654,Penthouse,8,18,24,1,No,No,0.87,1.56,2.01,906.51
+PROP0165,Sushant Lok,2,2,Fully-Furnished,3216,2717,Penthouse,12,3,6,0,No,Yes,3.48,2.56,3.73,450.83
+PROP0166,Golf Course Road,4,3,Semi-Furnished,1120,949,Penthouse,7,17,22,3,Yes,Yes,2.62,0.16,1.99,261.66
+PROP0167,Sector 57,1,2,Fully-Furnished,2406,2003,Studio,15,0,3,2,Yes,Yes,3.29,1.85,1.72,292.13
+PROP0168,Sector 45,5,2,Semi-Furnished,2344,1973,Penthouse,12,12,18,3,Yes,No,4.46,0.9,3.02,603.79
+PROP0169,Golf Course Road,1,2,Semi-Furnished,1563,1291,Penthouse,12,13,18,2,Yes,Yes,2.26,2.6,4.37,243.18
+PROP0170,Golf Course Road,1,2,Fully-Furnished,2629,2130,Independent House,16,0,9,3,No,No,4.52,0.92,0.33,316.99
+PROP0171,Sector 56,1,1,Unfurnished,2194,1812,Apartment,19,10,13,1,No,No,3.78,2.09,1.99,188.17
+PROP0172,Sector 56,3,2,Unfurnished,2235,1850,Apartment,4,16,22,1,Yes,No,2.49,2.06,0.88,367.04
+PROP0173,Palam Vihar,3,4,Unfurnished,3903,3267,Independent House,16,3,11,0,Yes,Yes,3.06,0.74,3.51,462.34
+PROP0174,DLF Phase 1,1,3,Unfurnished,1737,1408,Independent House,8,11,18,2,Yes,Yes,1.7,0.2,0.62,192.6
+PROP0175,Sector 57,5,4,Unfurnished,3495,2860,Independent House,1,9,15,0,Yes,Yes,4.92,1.29,3.36,930.71
+PROP0176,Golf Course Road,4,1,Semi-Furnished,3196,2614,Apartment,17,5,7,1,Yes,No,3.37,0.94,1.5,357.04
+PROP0177,Golf Course Road,4,4,Unfurnished,3185,2700,Penthouse,8,0,7,2,Yes,No,0.31,2.45,1.07,650.85
+PROP0178,Sector 45,2,3,Semi-Furnished,3584,2946,Independent House,5,6,14,0,Yes,Yes,1.7,2.42,4.69,816.87
+PROP0179,Palam Vihar,5,4,Semi-Furnished,3103,2599,Studio,10,15,16,0,No,No,3.15,1.43,0.19,353.36
+PROP0180,DLF Phase 1,3,1,Semi-Furnished,4492,3762,Independent House,5,13,22,0,No,Yes,0.38,1.86,2.25,656.54
+PROP0181,Palam Vihar,1,2,Fully-Furnished,3637,2957,Builder Floor,5,19,23,0,No,Yes,0.22,1.85,0.21,506.01
+PROP0182,Sushant Lok,2,4,Fully-Furnished,3097,2566,Independent House,12,19,27,0,No,Yes,2.31,2.5,2.47,391.01
+PROP0183,DLF Phase 1,4,1,Semi-Furnished,4285,3619,Apartment,10,5,12,2,Yes,Yes,1.73,1.33,2.56,472.1
+PROP0184,Golf Course Road,3,1,Fully-Furnished,3345,2755,Independent House,13,4,11,0,Yes,No,2.25,0.9,1.68,564.2
+PROP0185,Golf Course Road,3,3,Unfurnished,2022,1713,Builder Floor,1,17,19,2,Yes,Yes,1.39,0.87,0.75,343.75
+PROP0186,DLF Phase 1,1,3,Unfurnished,1669,1353,Studio,7,14,15,0,Yes,Yes,0.91,1.65,1.94,129.63
+PROP0187,Golf Course Road,4,4,Semi-Furnished,1439,1156,Penthouse,2,5,9,1,Yes,Yes,3.48,1.4,3.39,358.69
+PROP0188,Sector 57,5,2,Unfurnished,4577,3865,Independent House,2,18,20,1,No,Yes,2.62,1.38,3.93,1187.0
+PROP0189,DLF Phase 1,3,1,Semi-Furnished,3782,3185,Builder Floor,0,0,8,0,Yes,Yes,1.08,0.36,2.7,543.69
+PROP0190,Palam Vihar,1,4,Semi-Furnished,4736,4023,Builder Floor,18,0,7,3,No,Yes,1.67,2.18,2.99,404.02
+PROP0191,DLF Phase 1,5,1,Unfurnished,3333,2779,Studio,17,12,20,1,Yes,Yes,3.0,0.72,1.08,264.14
+PROP0192,Golf Course Road,4,1,Fully-Furnished,2788,2360,Apartment,16,2,8,2,No,No,0.45,0.67,1.51,355.21
+PROP0193,Sector 57,3,2,Unfurnished,1050,883,Independent House,19,9,10,0,Yes,No,0.82,1.3,0.89,163.35
+PROP0194,Sector 57,5,2,Unfurnished,3620,3048,Builder Floor,12,2,11,2,No,No,0.46,0.76,1.32,647.3
+PROP0195,Sushant Lok,5,4,Semi-Furnished,3245,2688,Studio,2,8,14,3,Yes,No,4.08,1.79,1.2,403.36
+PROP0196,Palam Vihar,5,2,Semi-Furnished,4958,4061,Penthouse,0,7,8,0,Yes,Yes,3.79,1.18,2.65,1250.73
+PROP0197,Sector 56,3,2,Semi-Furnished,1804,1527,Builder Floor,3,2,3,1,Yes,No,3.79,1.4,2.86,351.48
+PROP0198,Sector 56,3,4,Semi-Furnished,3029,2488,Studio,12,12,20,2,Yes,No,3.61,1.66,4.73,383.35
+PROP0199,DLF Phase 1,2,2,Fully-Furnished,3534,2922,Apartment,16,5,11,1,No,No,3.38,0.69,1.06,277.06
+PROP0200,Sushant Lok,4,3,Fully-Furnished,3507,2883,Apartment,10,12,20,1,Yes,Yes,2.44,0.55,3.24,443.23
+PROP0201,Sector 45,1,1,Fully-Furnished,3157,2614,Builder Floor,1,19,27,0,No,No,3.25,2.65,4.1,584.26
+PROP0202,DLF Phase 1,5,1,Semi-Furnished,4063,3345,Builder Floor,15,19,27,2,Yes,No,0.29,1.36,2.85,451.28
+PROP0203,Sushant Lok,2,1,Semi-Furnished,1660,1331,Independent House,1,11,18,3,No,Yes,3.15,1.3,1.35,249.19
+PROP0204,Palam Vihar,1,1,Semi-Furnished,3847,3247,Studio,18,12,19,1,Yes,No,3.91,0.2,1.39,265.56
+PROP0205,Palam Vihar,2,4,Fully-Furnished,3402,2797,Builder Floor,18,1,5,0,Yes,Yes,2.55,1.54,0.29,368.36
+PROP0206,Palam Vihar,3,1,Semi-Furnished,4563,3784,Independent House,15,15,24,0,No,No,1.85,1.71,1.6,575.06
+PROP0207,Palam Vihar,5,1,Unfurnished,4358,3516,Independent House,18,5,7,3,Yes,Yes,1.46,1.72,3.75,572.58
+PROP0208,Palam Vihar,1,1,Unfurnished,2123,1698,Builder Floor,8,18,27,0,Yes,No,3.25,2.15,0.33,214.83
+PROP0209,Sushant Lok,1,1,Semi-Furnished,1960,1592,Apartment,0,12,15,1,No,No,3.49,0.61,1.17,201.93
+PROP0210,Sushant Lok,1,3,Unfurnished,4922,4110,Studio,9,16,18,0,Yes,No,4.37,0.83,3.56,341.22
+PROP0211,Sector 57,1,1,Unfurnished,3014,2426,Studio,18,8,12,2,No,Yes,1.78,2.45,3.93,266.33
+PROP0212,Sector 56,1,3,Fully-Furnished,4606,3894,Apartment,0,16,21,2,Yes,No,3.87,2.85,2.33,792.29
+PROP0213,Golf Course Road,2,4,Semi-Furnished,1488,1206,Builder Floor,1,1,3,1,No,Yes,2.85,0.49,3.52,231.54
+PROP0214,Palam Vihar,5,2,Semi-Furnished,3499,2834,Studio,15,18,19,2,No,Yes,4.43,1.54,2.0,349.23
+PROP0215,Sector 45,3,1,Fully-Furnished,4201,3398,Builder Floor,11,18,23,3,No,Yes,2.69,0.72,0.88,819.09
+PROP0216,Golf Course Road,3,2,Unfurnished,4779,3826,Builder Floor,7,6,15,0,No,Yes,2.64,0.27,2.05,656.84
+PROP0217,Sushant Lok,3,2,Unfurnished,2216,1858,Independent House,17,9,14,1,Yes,No,2.93,1.04,2.94,218.68
+PROP0218,Sector 45,3,4,Semi-Furnished,3844,3243,Apartment,1,9,18,3,Yes,No,3.77,0.52,4.75,738.34
+PROP0219,Sector 45,2,2,Unfurnished,3063,2544,Builder Floor,12,19,25,0,No,No,4.83,2.16,0.44,402.89
+PROP0220,Sector 45,4,3,Fully-Furnished,1054,853,Penthouse,5,8,11,3,Yes,Yes,0.46,1.65,2.59,372.73
+PROP0221,Sector 57,5,2,Fully-Furnished,3697,3010,Apartment,5,16,20,1,Yes,No,0.36,0.52,1.71,897.14
+PROP0222,Sushant Lok,1,2,Semi-Furnished,3698,3046,Studio,8,14,18,1,Yes,Yes,4.69,0.13,2.59,306.38
+PROP0223,Sector 45,4,2,Fully-Furnished,4708,3991,Independent House,15,1,2,3,No,Yes,2.7,2.44,0.22,1036.94
+PROP0224,Palam Vihar,3,1,Fully-Furnished,2888,2346,Studio,10,3,6,0,Yes,Yes,3.11,0.61,1.63,340.96
+PROP0225,DLF Phase 1,4,1,Semi-Furnished,1767,1478,Studio,6,18,21,2,Yes,No,2.46,1.86,4.12,176.93
+PROP0226,Sector 45,5,3,Fully-Furnished,987,811,Apartment,9,16,17,2,No,No,0.56,1.08,2.81,206.34
+PROP0227,Sector 57,1,3,Fully-Furnished,2545,2073,Studio,9,4,13,3,Yes,Yes,3.86,1.8,2.31,355.6
+PROP0228,Golf Course Road,1,1,Fully-Furnished,2068,1701,Builder Floor,19,6,7,1,No,No,3.76,1.02,1.5,193.09
+PROP0229,Sushant Lok,5,3,Unfurnished,3996,3211,Studio,17,17,26,0,No,No,1.63,0.35,1.56,314.85
+PROP0230,Sector 57,5,1,Semi-Furnished,2287,1920,Independent House,19,6,7,0,No,Yes,1.6,0.75,1.98,441.97
+PROP0231,Sector 45,3,4,Semi-Furnished,4786,3887,Independent House,8,16,18,1,Yes,Yes,4.21,0.65,4.19,1070.19
+PROP0232,Sushant Lok,1,2,Semi-Furnished,4841,4048,Penthouse,14,6,8,2,Yes,No,0.45,1.34,4.84,575.9
+PROP0233,DLF Phase 1,4,2,Unfurnished,3407,2737,Independent House,3,3,9,0,No,Yes,4.42,2.01,2.25,467.01
+PROP0234,Sector 45,2,3,Unfurnished,4700,3984,Studio,7,7,14,3,No,Yes,1.36,0.87,2.03,645.21
+PROP0235,Sector 57,2,1,Semi-Furnished,3995,3234,Independent House,8,12,13,2,No,No,3.01,0.14,4.25,760.46
+PROP0236,Sector 56,5,1,Unfurnished,3096,2613,Apartment,12,3,6,3,No,No,4.69,1.6,2.19,436.4
+PROP0237,Palam Vihar,3,3,Semi-Furnished,1557,1308,Independent House,8,5,7,2,No,Yes,3.42,1.86,2.8,235.9
+PROP0238,Golf Course Road,2,1,Unfurnished,2726,2312,Builder Floor,3,4,12,1,No,No,2.13,2.89,1.23,357.3
+PROP0239,Sector 57,1,4,Fully-Furnished,3155,2599,Apartment,16,11,20,3,Yes,Yes,3.48,1.81,3.74,403.5
+PROP0240,Sushant Lok,5,2,Fully-Furnished,4428,3703,Penthouse,15,3,5,3,No,Yes,1.79,1.47,2.71,756.84
+PROP0241,Sector 45,4,3,Semi-Furnished,2821,2309,Builder Floor,14,8,10,1,No,No,1.46,1.76,4.06,469.07
+PROP0242,Palam Vihar,5,3,Unfurnished,4570,3698,Studio,2,3,12,3,No,Yes,4.98,2.79,3.93,543.75
+PROP0243,Sector 45,4,1,Unfurnished,3632,2986,Studio,19,18,22,2,Yes,Yes,3.78,2.5,1.15,415.24
+PROP0244,Sushant Lok,5,3,Fully-Furnished,1375,1111,Studio,4,13,18,0,Yes,Yes,3.26,1.04,3.61,187.73
+PROP0245,Sector 45,5,4,Fully-Furnished,4978,4226,Builder Floor,4,4,13,0,Yes,No,1.84,0.79,4.02,1301.13
+PROP0246,Sector 56,5,1,Unfurnished,3014,2425,Builder Floor,19,17,23,1,Yes,No,0.34,0.86,1.8,443.8
+PROP0247,Palam Vihar,4,1,Unfurnished,2445,2028,Builder Floor,14,9,18,2,No,No,0.25,1.56,0.95,273.49
+PROP0248,Palam Vihar,4,1,Unfurnished,3568,2966,Apartment,17,18,27,3,Yes,Yes,2.82,2.26,0.11,348.19
+PROP0249,Sushant Lok,5,1,Unfurnished,1257,1039,Apartment,14,11,18,3,No,Yes,3.83,1.56,2.31,117.95
+PROP0250,Golf Course Road,2,4,Unfurnished,3473,2893,Studio,1,17,26,0,No,No,2.73,0.3,1.83,391.27
+PROP0251,Sector 56,3,1,Unfurnished,2892,2330,Independent House,12,16,21,3,No,No,4.22,2.2,2.82,458.24
+PROP0252,Sector 57,3,3,Semi-Furnished,2508,2075,Studio,3,10,15,0,No,No,0.26,2.44,1.02,428.34
+PROP0253,Sector 45,3,4,Unfurnished,4802,3910,Penthouse,9,2,10,1,No,Yes,1.9,0.94,4.31,1095.39
+PROP0254,DLF Phase 1,4,2,Fully-Furnished,2994,2535,Apartment,12,16,20,3,No,No,1.26,2.03,1.36,314.7
+PROP0255,Sector 45,4,2,Semi-Furnished,1720,1441,Builder Floor,9,0,9,2,Yes,Yes,2.29,1.34,1.21,365.0
+PROP0256,Sector 45,2,3,Unfurnished,2727,2314,Apartment,8,14,21,3,Yes,No,0.45,2.68,2.46,404.54
+PROP0257,Sector 57,3,3,Fully-Furnished,4661,3737,Builder Floor,7,8,15,0,Yes,Yes,4.78,2.55,2.54,957.28
+PROP0258,Sector 45,3,4,Semi-Furnished,1539,1253,Penthouse,2,14,17,1,Yes,Yes,1.19,1.62,1.15,494.21
+PROP0259,Sector 56,5,2,Fully-Furnished,1698,1374,Penthouse,15,2,6,0,Yes,No,4.62,2.11,1.43,418.35
+PROP0260,Sector 56,4,2,Unfurnished,854,683,Apartment,13,18,25,3,No,Yes,2.19,2.66,0.93,121.44
+PROP0261,Palam Vihar,3,2,Unfurnished,859,697,Builder Floor,8,12,17,0,Yes,No,4.93,1.54,3.62,96.37
+PROP0262,Sushant Lok,2,2,Unfurnished,4283,3571,Penthouse,10,11,14,0,Yes,Yes,2.81,1.01,3.87,569.07
+PROP0263,Golf Course Road,2,2,Unfurnished,3874,3143,Studio,2,19,20,1,Yes,Yes,4.66,2.29,2.37,440.65
+PROP0264,DLF Phase 1,3,1,Semi-Furnished,2291,1891,Studio,4,0,7,2,No,No,0.13,0.74,3.6,226.24
+PROP0265,Sector 45,4,3,Semi-Furnished,3732,3151,Builder Floor,9,16,22,3,No,Yes,3.77,1.23,3.71,713.16
+PROP0266,Sector 45,2,1,Fully-Furnished,2459,2052,Apartment,12,12,19,1,No,No,4.52,2.61,0.78,352.43
+PROP0267,Sector 57,5,2,Unfurnished,4802,3936,Penthouse,3,0,2,2,Yes,No,0.78,2.2,4.83,1435.92
+PROP0268,Sushant Lok,2,4,Fully-Furnished,4861,3979,Apartment,12,9,13,0,Yes,No,0.57,1.27,4.12,487.11
+PROP0269,Sector 56,1,4,Semi-Furnished,2449,2015,Studio,11,14,16,2,Yes,Yes,2.18,0.72,1.1,305.33
+PROP0270,DLF Phase 1,1,2,Unfurnished,4387,3548,Penthouse,4,6,14,0,Yes,Yes,4.68,1.13,1.01,569.19
+PROP0271,Palam Vihar,4,2,Unfurnished,4046,3365,Apartment,9,17,24,0,Yes,Yes,2.76,0.92,0.72,494.87
+PROP0272,Sector 56,3,4,Semi-Furnished,2101,1719,Independent House,8,15,16,1,No,No,2.68,0.61,0.78,434.09
+PROP0273,Sushant Lok,4,1,Semi-Furnished,1774,1494,Builder Floor,19,13,15,0,Yes,No,0.79,2.26,3.77,168.76
+PROP0274,Golf Course Road,4,1,Semi-Furnished,2724,2282,Builder Floor,6,17,19,1,No,Yes,0.1,0.83,2.4,473.79
+PROP0275,Palam Vihar,4,2,Semi-Furnished,4081,3389,Independent House,1,6,10,2,Yes,Yes,4.07,1.42,3.94,798.46
+PROP0276,Golf Course Road,4,1,Semi-Furnished,4832,3953,Studio,6,16,19,2,No,No,0.53,1.22,3.76,637.67
+PROP0277,Sector 57,5,4,Unfurnished,4007,3247,Penthouse,7,17,18,0,No,Yes,3.21,2.95,3.06,1053.34
+PROP0278,Sector 57,5,1,Semi-Furnished,4391,3683,Builder Floor,6,11,13,1,No,No,4.58,1.23,3.46,892.75
+PROP0279,Sector 45,2,2,Unfurnished,3332,2746,Independent House,13,7,16,0,No,Yes,1.12,0.33,0.19,585.22
+PROP0280,Golf Course Road,1,4,Unfurnished,4308,3494,Independent House,18,1,2,1,Yes,No,3.36,0.36,1.63,435.41
+PROP0281,Sushant Lok,4,1,Semi-Furnished,4094,3315,Studio,4,6,15,1,Yes,Yes,0.49,1.81,3.23,504.6
+PROP0282,DLF Phase 1,2,3,Semi-Furnished,2383,1926,Studio,17,3,10,1,Yes,Yes,3.06,1.84,0.15,165.65
+PROP0283,Palam Vihar,1,4,Unfurnished,3118,2615,Apartment,19,17,19,2,No,No,0.9,1.31,0.26,213.73
+PROP0284,Sector 56,3,4,Semi-Furnished,4179,3391,Builder Floor,11,5,7,1,Yes,No,3.71,1.35,4.27,667.31
+PROP0285,Sushant Lok,5,3,Semi-Furnished,993,820,Apartment,16,8,13,2,Yes,No,1.58,0.26,3.45,101.66
+PROP0286,Sushant Lok,1,3,Semi-Furnished,4193,3449,Independent House,12,8,13,1,Yes,Yes,2.37,1.6,1.4,475.96
+PROP0287,Sector 57,3,4,Fully-Furnished,1547,1282,Penthouse,1,13,17,2,Yes,No,3.04,1.56,3.47,488.55
+PROP0288,Golf Course Road,1,3,Unfurnished,2961,2498,Penthouse,12,7,10,3,No,No,0.94,0.53,3.98,400.29
+PROP0289,Sector 45,5,2,Fully-Furnished,4194,3537,Studio,6,18,22,2,No,Yes,3.73,0.4,1.6,848.34
+PROP0290,Sector 45,5,2,Semi-Furnished,1866,1534,Penthouse,9,2,6,2,Yes,No,1.58,0.46,0.28,569.5
+PROP0291,Palam Vihar,2,2,Fully-Furnished,1832,1467,Penthouse,5,17,19,0,Yes,No,3.35,0.39,4.67,344.5
+PROP0292,Sector 57,4,4,Semi-Furnished,2491,2045,Penthouse,2,4,9,1,Yes,No,0.88,1.87,1.79,807.03
+PROP0293,Sushant Lok,1,3,Fully-Furnished,4557,3783,Independent House,2,13,18,3,No,Yes,3.47,0.67,0.62,674.75
+PROP0294,DLF Phase 1,1,3,Semi-Furnished,801,663,Penthouse,17,3,8,0,No,Yes,0.73,0.83,2.51,83.88
+PROP0295,Sector 57,3,1,Fully-Furnished,4585,3817,Penthouse,10,6,7,1,No,Yes,2.18,0.6,3.87,1210.37
+PROP0296,Palam Vihar,5,1,Fully-Furnished,1445,1167,Penthouse,19,19,25,3,Yes,No,1.31,2.88,1.19,246.8
+PROP0297,Palam Vihar,1,3,Fully-Furnished,4958,4126,Apartment,4,11,13,3,No,Yes,3.77,2.58,1.42,583.72
+PROP0298,Sector 57,5,3,Unfurnished,4810,3891,Independent House,18,1,8,3,No,No,1.38,0.77,1.29,840.25
+PROP0299,Palam Vihar,1,3,Fully-Furnished,2877,2409,Studio,18,10,14,1,No,No,4.42,1.05,4.96,194.99
+PROP0300,Sector 57,2,4,Unfurnished,2953,2412,Apartment,14,13,18,3,No,No,4.47,0.71,1.07,335.38
+PROP0301,Sector 56,4,3,Semi-Furnished,2822,2357,Builder Floor,15,15,20,3,No,Yes,1.06,1.53,2.92,466.08
+PROP0302,Sector 57,1,1,Fully-Furnished,3468,2782,Independent House,8,19,24,0,Yes,Yes,3.11,0.16,4.63,723.23
+PROP0303,Golf Course Road,5,4,Semi-Furnished,1181,968,Independent House,3,5,7,2,Yes,No,0.53,2.05,0.82,276.45
+PROP0304,Sector 57,2,3,Semi-Furnished,936,781,Builder Floor,14,3,8,1,Yes,No,2.02,1.62,4.86,135.62
+PROP0305,Palam Vihar,1,1,Fully-Furnished,1042,845,Builder Floor,11,14,17,2,Yes,Yes,3.6,2.71,4.74,116.36
+PROP0306,Golf Course Road,3,4,Unfurnished,2666,2238,Builder Floor,2,0,4,0,No,Yes,3.33,0.58,4.43,392.06
+PROP0307,Palam Vihar,4,3,Fully-Furnished,1957,1627,Studio,13,6,8,2,Yes,Yes,3.16,2.43,1.15,226.8
+PROP0308,Sector 45,1,3,Semi-Furnished,3412,2829,Penthouse,16,11,15,3,Yes,No,1.48,2.4,3.21,603.93
+PROP0309,Sector 45,2,3,Semi-Furnished,4968,4062,Independent House,18,9,18,3,Yes,Yes,1.95,0.47,3.83,824.41
+PROP0310,Golf Course Road,3,4,Fully-Furnished,2422,1996,Penthouse,5,4,12,1,No,Yes,0.6,1.26,4.93,571.4
+PROP0311,Sector 56,2,1,Unfurnished,3210,2663,Penthouse,3,11,14,1,Yes,Yes,3.62,0.59,0.98,775.13
+PROP0312,Sector 45,2,1,Unfurnished,2545,2096,Builder Floor,6,17,18,1,No,No,2.57,0.84,3.85,398.37
+PROP0313,Sector 57,3,2,Semi-Furnished,4358,3638,Studio,18,9,10,0,No,Yes,3.57,0.86,1.76,500.95
+PROP0314,Palam Vihar,2,3,Semi-Furnished,4589,3770,Apartment,16,5,11,1,No,No,1.32,1.71,0.96,405.94
+PROP0315,Sector 45,3,2,Unfurnished,4484,3632,Studio,15,11,14,0,Yes,No,1.69,1.29,2.16,536.11
+PROP0316,Sector 45,1,2,Fully-Furnished,4892,3965,Penthouse,14,6,10,3,No,No,1.74,2.85,3.99,935.47
+PROP0317,Sector 56,3,1,Semi-Furnished,915,732,Studio,7,17,18,2,Yes,Yes,0.23,0.47,2.38,153.09
+PROP0318,Golf Course Road,3,4,Unfurnished,4327,3526,Builder Floor,18,1,9,3,Yes,Yes,1.77,2.92,2.73,457.47
+PROP0319,Golf Course Road,4,4,Semi-Furnished,3957,3313,Apartment,7,9,10,3,Yes,Yes,4.04,0.77,4.98,576.05
+PROP0320,Sushant Lok,3,1,Fully-Furnished,1760,1477,Builder Floor,17,14,19,3,No,No,4.5,2.34,2.06,161.67
+PROP0321,Sector 56,3,4,Unfurnished,4816,3901,Apartment,15,11,17,1,No,Yes,2.64,1.08,3.12,592.18
+PROP0322,Sector 57,1,2,Semi-Furnished,1422,1205,Penthouse,19,16,18,1,Yes,No,2.33,0.51,1.89,229.79
+PROP0323,Golf Course Road,4,3,Fully-Furnished,3654,3014,Apartment,18,3,10,1,No,Yes,0.25,2.59,2.02,450.65
+PROP0324,Palam Vihar,5,1,Semi-Furnished,1744,1475,Apartment,9,6,13,2,No,Yes,4.41,1.0,3.51,224.39
+PROP0325,Sector 56,1,3,Fully-Furnished,2611,2181,Apartment,16,8,9,1,No,Yes,0.16,2.01,4.7,324.74
+PROP0326,Sector 45,1,4,Fully-Furnished,3820,3193,Studio,12,18,22,0,Yes,Yes,4.73,1.74,2.76,490.12
+PROP0327,Palam Vihar,5,3,Unfurnished,3165,2545,Studio,12,6,10,3,No,No,2.5,1.47,3.87,303.83
+PROP0328,Palam Vihar,3,4,Fully-Furnished,2595,2104,Penthouse,6,1,6,2,No,No,1.78,1.54,0.54,524.76
+PROP0329,Sector 45,2,4,Semi-Furnished,2170,1736,Apartment,9,5,6,2,Yes,No,4.63,2.22,1.13,322.34
+PROP0330,Sector 56,4,2,Fully-Furnished,4326,3615,Independent House,1,17,18,2,No,No,0.22,0.35,2.56,1268.94
+PROP0331,Sector 45,2,4,Fully-Furnished,1404,1147,Penthouse,3,5,12,2,Yes,Yes,2.95,2.04,0.2,430.79
+PROP0332,Sushant Lok,5,2,Unfurnished,2606,2187,Apartment,5,12,21,2,No,No,2.79,2.7,1.34,297.15
+PROP0333,Palam Vihar,1,2,Fully-Furnished,4595,3753,Apartment,17,18,19,0,No,No,1.17,0.27,2.64,394.72
+PROP0334,DLF Phase 1,1,2,Fully-Furnished,4352,3659,Studio,5,1,3,3,No,No,2.2,0.51,0.17,386.11
+PROP0335,DLF Phase 1,4,1,Semi-Furnished,2483,2002,Penthouse,16,11,17,2,No,Yes,3.3,2.18,1.4,322.4
+PROP0336,Sector 57,1,1,Unfurnished,4005,3238,Apartment,13,14,20,3,No,No,3.66,1.37,2.62,426.47
+PROP0337,Golf Course Road,1,4,Unfurnished,4257,3478,Apartment,10,13,15,1,No,No,0.1,1.27,2.91,412.26
+PROP0338,Sector 45,4,2,Unfurnished,4533,3718,Penthouse,18,5,14,2,Yes,Yes,4.69,0.5,4.64,860.49
+PROP0339,Sector 45,4,1,Fully-Furnished,3086,2522,Independent House,1,17,21,2,No,Yes,0.91,1.57,3.26,966.03
+PROP0340,Sector 57,5,2,Unfurnished,1658,1389,Penthouse,2,4,11,3,No,No,1.24,0.47,2.13,499.96
+PROP0341,Sector 57,1,3,Fully-Furnished,1872,1506,Penthouse,10,17,23,2,No,No,1.39,1.48,4.66,397.94
+PROP0342,Sector 57,1,3,Fully-Furnished,2041,1668,Independent House,5,2,5,2,Yes,Yes,0.29,2.31,3.95,476.43
+PROP0343,Palam Vihar,5,3,Semi-Furnished,3293,2772,Penthouse,13,2,10,2,Yes,No,0.7,0.85,1.08,636.79
+PROP0344,Sushant Lok,3,4,Semi-Furnished,937,752,Apartment,18,9,16,0,Yes,Yes,4.93,1.49,0.74,77.65
+PROP0345,Sector 45,3,2,Semi-Furnished,3471,2940,Penthouse,15,18,27,0,No,No,1.64,2.98,3.41,703.82
+PROP0346,Palam Vihar,3,3,Semi-Furnished,2330,1978,Independent House,6,2,5,2,No,No,0.66,2.09,2.84,372.07
+PROP0347,Sector 57,5,1,Semi-Furnished,2040,1641,Builder Floor,7,11,12,0,Yes,No,0.62,2.54,3.97,454.16
+PROP0348,Sector 45,1,3,Fully-Furnished,4493,3659,Penthouse,18,15,17,1,Yes,No,3.63,1.3,3.72,784.98
+PROP0349,Palam Vihar,5,3,Fully-Furnished,2732,2236,Studio,19,16,17,2,Yes,No,4.29,2.33,3.16,259.05
+PROP0350,Sushant Lok,5,3,Unfurnished,1199,1005,Apartment,15,6,11,1,No,Yes,1.36,0.22,4.93,113.67
+PROP0351,Palam Vihar,3,4,Fully-Furnished,4272,3544,Apartment,6,12,14,3,Yes,Yes,0.2,0.46,2.71,648.49
+PROP0352,Sushant Lok,2,1,Fully-Furnished,1000,832,Studio,8,1,4,1,No,No,1.19,0.69,0.65,97.71
+PROP0353,Sector 57,1,2,Semi-Furnished,3852,3227,Studio,12,3,11,3,No,No,0.38,1.27,4.16,439.95
+PROP0354,Sushant Lok,3,1,Fully-Furnished,4050,3263,Penthouse,0,9,14,2,No,No,0.61,2.55,1.33,838.78
+PROP0355,Sector 45,2,2,Semi-Furnished,2280,1918,Studio,7,6,10,3,Yes,Yes,2.21,1.1,3.91,347.57
+PROP0356,Sector 57,2,4,Unfurnished,4264,3561,Builder Floor,3,16,21,3,No,Yes,1.23,2.0,4.79,743.01
+PROP0357,Sector 45,4,4,Unfurnished,2965,2457,Independent House,2,19,25,1,Yes,Yes,2.63,2.16,3.51,761.11
+PROP0358,DLF Phase 1,1,4,Fully-Furnished,2745,2318,Studio,2,5,12,1,Yes,Yes,1.34,1.8,3.02,279.56
+PROP0359,Sector 56,2,4,Unfurnished,990,826,Studio,12,18,27,1,Yes,Yes,4.71,1.14,2.36,111.05
+PROP0360,Sushant Lok,3,2,Fully-Furnished,2018,1634,Builder Floor,7,4,5,2,Yes,Yes,4.54,1.77,1.89,268.09
+PROP0361,Sector 56,4,3,Unfurnished,4710,3869,Apartment,6,9,13,2,No,Yes,2.88,1.09,1.83,790.41
+PROP0362,Sector 56,1,2,Semi-Furnished,2445,2016,Apartment,0,8,17,1,No,Yes,1.84,0.34,3.22,409.12
+PROP0363,Sushant Lok,5,1,Semi-Furnished,3096,2485,Penthouse,15,12,17,2,No,No,1.97,2.98,3.78,448.21
+PROP0364,Sector 57,3,4,Semi-Furnished,3034,2572,Builder Floor,5,18,26,2,No,Yes,2.12,0.47,3.42,610.1
+PROP0365,DLF Phase 1,2,4,Semi-Furnished,3279,2644,Independent House,6,5,6,3,Yes,Yes,3.67,0.31,1.07,435.97
+PROP0366,Sector 45,2,1,Fully-Furnished,1057,882,Independent House,11,3,7,3,Yes,Yes,2.31,2.65,2.52,229.47
+PROP0367,Palam Vihar,3,2,Unfurnished,2321,1915,Builder Floor,8,2,11,1,Yes,Yes,4.3,0.98,3.98,277.75
+PROP0368,Sector 45,2,3,Fully-Furnished,3837,3074,Independent House,10,2,3,2,Yes,No,4.73,1.99,2.43,778.35
+PROP0369,Palam Vihar,4,3,Semi-Furnished,1642,1389,Apartment,9,3,4,3,No,Yes,1.75,1.05,2.73,210.27
+PROP0370,Sector 45,1,1,Fully-Furnished,1655,1394,Independent House,0,4,8,0,Yes,No,2.85,1.24,3.88,397.72
+PROP0371,Sushant Lok,4,3,Unfurnished,842,695,Independent House,17,7,10,2,No,No,0.57,0.86,3.34,89.29
+PROP0372,DLF Phase 1,2,2,Fully-Furnished,2637,2139,Builder Floor,3,15,22,0,Yes,No,1.08,1.09,2.11,341.3
+PROP0373,Palam Vihar,5,2,Unfurnished,4507,3633,Builder Floor,4,2,5,1,Yes,Yes,2.13,1.29,4.49,707.94
+PROP0374,Golf Course Road,1,1,Fully-Furnished,1017,832,Independent House,8,11,12,2,Yes,Yes,1.11,2.19,0.9,176.21
+PROP0375,Sector 57,1,2,Unfurnished,1602,1302,Studio,16,7,9,1,Yes,Yes,4.4,1.58,4.98,149.03
+PROP0376,Sector 45,3,4,Unfurnished,2102,1734,Builder Floor,2,12,16,1,No,No,0.88,2.84,0.68,407.59
+PROP0377,Sector 45,3,1,Semi-Furnished,3873,3285,Penthouse,15,3,4,1,No,No,2.33,0.22,0.17,822.85
+PROP0378,Palam Vihar,5,2,Unfurnished,3490,2892,Penthouse,4,13,14,1,No,No,3.07,1.56,4.46,663.12
+PROP0379,Sector 57,1,1,Semi-Furnished,2546,2150,Apartment,15,13,21,1,No,No,3.49,1.79,1.3,285.75
+PROP0380,Sector 57,5,3,Semi-Furnished,3988,3320,Independent House,2,12,19,2,Yes,Yes,1.98,2.77,3.68,1196.74
+PROP0381,Sushant Lok,3,2,Semi-Furnished,3360,2767,Studio,19,5,13,0,Yes,Yes,4.36,0.24,4.07,240.61
+PROP0382,Golf Course Road,3,4,Fully-Furnished,4563,3845,Apartment,14,16,20,2,No,Yes,2.88,1.76,4.31,548.42
+PROP0383,Sushant Lok,1,2,Fully-Furnished,4235,3487,Independent House,2,3,9,2,No,No,2.25,2.58,4.96,574.83
+PROP0384,Sushant Lok,4,1,Fully-Furnished,1861,1569,Builder Floor,19,7,10,2,Yes,No,0.43,0.8,1.54,202.02
+PROP0385,Sushant Lok,2,1,Fully-Furnished,1940,1580,Penthouse,13,16,24,3,Yes,Yes,2.38,2.64,3.58,284.82
+PROP0386,Sushant Lok,3,2,Unfurnished,1326,1069,Studio,15,2,6,3,No,Yes,4.12,0.16,0.67,96.69
+PROP0387,Sushant Lok,3,4,Unfurnished,2215,1866,Penthouse,16,16,19,2,No,No,3.11,2.22,2.09,245.72
+PROP0388,DLF Phase 1,4,4,Fully-Furnished,4998,4145,Builder Floor,19,8,12,0,No,Yes,4.18,2.81,4.26,448.07
+PROP0389,Sector 57,4,4,Unfurnished,2504,2114,Independent House,17,1,7,2,Yes,Yes,2.52,2.01,1.9,444.85
+PROP0390,Sushant Lok,5,1,Unfurnished,1726,1461,Builder Floor,17,12,19,1,No,No,0.68,1.37,3.0,165.29
+PROP0391,Sector 57,5,2,Semi-Furnished,4002,3212,Builder Floor,13,19,26,3,No,No,0.17,0.23,2.57,765.24
+PROP0392,Sector 57,2,3,Semi-Furnished,3078,2539,Penthouse,17,1,5,3,No,No,1.59,2.77,3.27,538.27
+PROP0393,Sector 56,2,1,Semi-Furnished,1428,1169,Studio,14,19,27,2,No,Yes,3.52,1.46,4.87,158.44
+PROP0394,DLF Phase 1,1,4,Semi-Furnished,2398,1993,Builder Floor,14,10,17,2,No,No,3.97,0.18,0.37,183.87
+PROP0395,Sushant Lok,5,2,Unfurnished,2540,2132,Penthouse,5,14,16,0,Yes,Yes,1.55,2.1,2.91,486.7
+PROP0396,Sector 45,3,4,Fully-Furnished,3966,3228,Studio,14,10,18,0,No,Yes,2.53,1.5,4.33,561.14
+PROP0397,Palam Vihar,5,3,Unfurnished,886,733,Independent House,17,2,11,1,Yes,No,2.16,0.46,2.46,115.65
+PROP0398,Golf Course Road,3,4,Unfurnished,1929,1611,Independent House,3,2,7,2,No,Yes,2.11,0.72,0.48,350.28
+PROP0399,Sector 45,4,4,Unfurnished,2973,2398,Apartment,7,11,15,2,No,No,1.23,0.29,2.85,503.91
+PROP0400,DLF Phase 1,5,3,Semi-Furnished,1929,1621,Penthouse,14,4,8,2,No,No,0.77,1.77,1.73,285.51
+PROP0401,Palam Vihar,4,2,Semi-Furnished,3439,2855,Studio,2,19,23,3,Yes,Yes,1.06,1.9,0.86,499.36
+PROP0402,DLF Phase 1,2,1,Semi-Furnished,2823,2392,Builder Floor,14,6,12,1,Yes,Yes,0.37,1.57,4.26,265.98
+PROP0403,Sector 57,2,2,Fully-Furnished,2319,1894,Independent House,12,6,10,0,Yes,No,1.07,2.47,2.66,472.98
+PROP0404,Palam Vihar,1,3,Unfurnished,4786,3854,Studio,8,12,19,3,No,No,0.15,2.6,4.67,383.11
+PROP0405,Sector 57,5,4,Fully-Furnished,3455,2851,Penthouse,1,8,15,3,No,No,3.17,1.89,4.05,1184.53
+PROP0406,Sector 45,4,2,Semi-Furnished,1345,1081,Apartment,7,12,17,3,Yes,No,1.65,0.14,3.5,259.68
+PROP0407,Sector 45,3,1,Fully-Furnished,3152,2674,Independent House,19,11,16,3,Yes,No,4.87,2.12,0.12,547.11
+PROP0408,Palam Vihar,2,3,Unfurnished,4079,3271,Studio,16,12,20,1,No,No,1.05,1.31,2.2,294.33
+PROP0409,Palam Vihar,2,2,Unfurnished,3775,3162,Studio,12,9,16,2,Yes,Yes,1.79,1.74,1.07,332.94
+PROP0410,Sushant Lok,3,1,Semi-Furnished,1522,1257,Studio,0,0,7,0,No,Yes,1.85,1.98,4.56,172.66
+PROP0411,DLF Phase 1,4,3,Semi-Furnished,4884,3997,Penthouse,1,7,13,0,Yes,Yes,0.14,1.12,0.96,1040.3
+PROP0412,Sushant Lok,4,1,Fully-Furnished,2685,2156,Penthouse,14,15,22,3,Yes,Yes,4.21,2.76,1.5,439.02
+PROP0413,DLF Phase 1,5,3,Semi-Furnished,1467,1219,Penthouse,11,12,19,3,Yes,No,0.26,0.49,2.63,250.48
+PROP0414,Sushant Lok,5,4,Semi-Furnished,1556,1290,Builder Floor,13,2,4,1,No,Yes,4.71,2.05,1.39,178.9
+PROP0415,Sector 57,1,2,Unfurnished,1212,986,Studio,1,2,4,3,No,Yes,4.47,0.11,1.13,163.18
+PROP0416,Palam Vihar,2,1,Semi-Furnished,4174,3529,Independent House,17,4,11,0,Yes,No,2.72,2.78,3.04,460.06
+PROP0417,Sector 45,5,3,Semi-Furnished,1312,1069,Penthouse,6,10,17,0,No,Yes,2.76,0.43,0.54,418.28
+PROP0418,DLF Phase 1,4,1,Unfurnished,1325,1089,Penthouse,5,6,13,2,No,No,3.3,0.38,0.39,202.83
+PROP0419,DLF Phase 1,3,1,Unfurnished,4371,3615,Studio,13,9,14,2,No,No,2.0,1.07,1.92,308.06
+PROP0420,Sector 45,4,2,Fully-Furnished,2247,1808,Penthouse,7,9,10,0,No,No,3.27,1.18,3.63,645.78
+PROP0421,Sushant Lok,2,4,Semi-Furnished,929,786,Builder Floor,1,19,21,0,Yes,No,0.32,0.72,2.82,123.99
+PROP0422,DLF Phase 1,4,1,Unfurnished,1017,832,Builder Floor,16,1,10,1,No,No,0.36,1.8,2.17,88.77
+PROP0423,Golf Course Road,1,3,Fully-Furnished,1397,1123,Penthouse,4,2,10,1,No,Yes,2.34,1.38,2.87,280.65
+PROP0424,Sector 57,2,3,Fully-Furnished,1696,1389,Studio,13,7,15,0,Yes,Yes,2.79,0.2,1.89,243.64
+PROP0425,Palam Vihar,3,4,Semi-Furnished,3593,2982,Studio,19,10,11,3,No,Yes,4.45,1.03,4.69,268.99
+PROP0426,Sector 45,1,3,Semi-Furnished,1460,1205,Studio,2,12,18,2,No,No,0.61,2.45,0.37,218.33
+PROP0427,Palam Vihar,2,4,Fully-Furnished,1299,1084,Apartment,4,6,15,0,No,Yes,4.13,2.1,3.4,163.01
+PROP0428,Golf Course Road,3,3,Unfurnished,4011,3219,Penthouse,15,12,20,3,Yes,Yes,1.13,2.2,4.47,634.08
+PROP0429,DLF Phase 1,1,2,Fully-Furnished,3618,2945,Studio,17,1,4,0,Yes,Yes,2.03,2.12,4.04,246.29
+PROP0430,DLF Phase 1,1,1,Semi-Furnished,2628,2210,Builder Floor,16,5,9,2,No,Yes,1.65,1.0,1.0,206.85
+PROP0431,Golf Course Road,2,2,Unfurnished,3107,2498,Independent House,10,8,11,2,No,No,2.06,0.39,1.55,419.4
+PROP0432,Sector 45,5,1,Unfurnished,2110,1778,Independent House,16,19,25,1,Yes,Yes,0.84,0.89,3.61,431.68
+PROP0433,Sector 57,1,1,Fully-Furnished,2826,2273,Studio,15,1,10,1,Yes,No,2.57,2.51,0.51,333.65
+PROP0434,Sector 56,1,1,Semi-Furnished,2928,2464,Independent House,1,17,25,1,Yes,No,4.03,2.94,4.08,575.1
+PROP0435,Sector 45,3,2,Fully-Furnished,2426,1984,Independent House,3,15,19,1,No,Yes,2.26,1.53,3.62,655.62
+PROP0436,Sector 56,4,1,Fully-Furnished,4607,3826,Apartment,6,11,13,2,No,No,2.5,0.13,3.68,882.39
+PROP0437,Golf Course Road,2,2,Fully-Furnished,867,700,Builder Floor,1,6,14,3,Yes,No,4.26,0.51,0.59,147.08
+PROP0438,Sushant Lok,2,4,Unfurnished,4085,3281,Builder Floor,5,6,14,3,No,No,3.56,1.03,3.62,400.65
+PROP0439,Sector 56,5,3,Unfurnished,1322,1071,Apartment,16,16,22,3,No,No,2.5,1.78,3.43,172.26
+PROP0440,Sector 57,5,3,Semi-Furnished,4149,3345,Apartment,6,12,20,0,No,No,1.36,0.32,4.17,822.7
+PROP0441,Sushant Lok,2,1,Semi-Furnished,3386,2761,Independent House,4,10,19,1,No,No,4.44,2.84,0.3,439.67
+PROP0442,Sector 56,5,2,Fully-Furnished,4341,3584,Penthouse,4,5,6,1,No,No,2.93,1.16,0.21,1419.43
+PROP0443,Golf Course Road,3,3,Fully-Furnished,1209,1002,Independent House,19,13,22,2,No,Yes,1.18,2.75,1.93,170.98
+PROP0444,Sushant Lok,2,2,Fully-Furnished,3147,2641,Apartment,15,5,7,2,No,Yes,1.42,2.36,0.83,292.0
+PROP0445,Golf Course Road,5,2,Semi-Furnished,2904,2418,Builder Floor,18,5,6,0,Yes,No,4.04,2.29,2.84,355.56
+PROP0446,Sector 56,2,1,Unfurnished,3766,3127,Independent House,8,1,9,0,Yes,No,0.32,1.86,4.6,683.37
+PROP0447,Golf Course Road,4,3,Unfurnished,3044,2497,Penthouse,4,19,27,3,Yes,Yes,4.96,1.92,2.02,645.66
+PROP0448,Sector 57,1,1,Fully-Furnished,3071,2529,Independent House,7,14,18,2,Yes,Yes,0.74,1.95,4.24,679.25
+PROP0449,Sector 56,2,1,Fully-Furnished,2604,2137,Studio,8,16,24,1,Yes,Yes,4.0,1.92,0.1,399.41
+PROP0450,Sector 56,1,3,Fully-Furnished,2097,1765,Independent House,4,7,14,3,Yes,Yes,2.03,1.71,0.93,483.4
+PROP0451,Sector 56,5,3,Fully-Furnished,2825,2292,Apartment,9,4,6,1,Yes,No,2.51,2.96,0.25,570.65
+PROP0452,Sector 45,1,4,Semi-Furnished,1297,1037,Builder Floor,1,16,21,3,Yes,No,4.42,2.22,1.71,231.88
+PROP0453,Sector 45,2,4,Unfurnished,4838,4027,Builder Floor,8,19,23,1,Yes,Yes,2.12,2.35,4.55,786.5
+PROP0454,Sector 45,4,2,Fully-Furnished,3800,3078,Apartment,10,0,3,0,No,Yes,2.73,2.63,0.58,731.23
+PROP0455,Sector 57,5,3,Semi-Furnished,4800,4053,Studio,3,17,18,3,No,Yes,0.34,0.73,3.07,988.09
+PROP0456,Sushant Lok,2,4,Fully-Furnished,1752,1476,Apartment,1,14,19,1,Yes,Yes,0.11,0.34,2.31,246.75
+PROP0457,Golf Course Road,5,2,Fully-Furnished,4493,3611,Independent House,5,4,12,1,No,No,1.3,1.5,4.7,995.2
+PROP0458,DLF Phase 1,3,2,Unfurnished,4196,3379,Apartment,13,6,15,2,No,Yes,3.43,1.59,0.7,337.12
+PROP0459,Sector 56,1,2,Fully-Furnished,3644,3005,Apartment,0,17,24,3,Yes,Yes,0.69,2.5,1.14,714.66
+PROP0460,Golf Course Road,3,4,Unfurnished,3425,2844,Studio,17,5,6,1,Yes,Yes,0.66,1.39,0.24,325.61
+PROP0461,Sector 56,2,3,Unfurnished,2129,1732,Independent House,6,4,5,2,Yes,No,2.11,1.76,2.23,400.24
+PROP0462,Sector 57,4,1,Unfurnished,4228,3533,Penthouse,0,18,19,1,No,No,3.27,1.63,1.46,1182.1
+PROP0463,Sector 56,5,2,Semi-Furnished,2906,2411,Penthouse,0,9,11,3,No,No,3.59,0.21,4.36,903.27
+PROP0464,Sector 45,1,4,Semi-Furnished,1097,895,Builder Floor,0,14,15,0,Yes,Yes,0.97,1.88,3.06,223.71
+PROP0465,DLF Phase 1,5,4,Unfurnished,2114,1693,Apartment,3,9,13,3,No,Yes,0.49,2.5,3.11,255.85
+PROP0466,Palam Vihar,2,1,Fully-Furnished,4728,3959,Builder Floor,3,15,24,3,No,Yes,4.71,0.56,2.71,673.55
+PROP0467,Sector 56,5,1,Unfurnished,4372,3544,Studio,17,11,15,1,No,No,1.38,1.82,0.55,524.33
+PROP0468,Golf Course Road,1,4,Fully-Furnished,4924,4144,Penthouse,10,17,21,1,Yes,No,4.28,1.82,2.28,826.48
+PROP0469,Sector 45,2,3,Unfurnished,3437,2821,Apartment,0,0,7,3,No,Yes,4.33,0.58,5.0,556.64
+PROP0470,Palam Vihar,5,1,Fully-Furnished,1839,1524,Studio,9,15,24,2,No,Yes,3.89,0.46,4.19,234.58
+PROP0471,DLF Phase 1,4,4,Semi-Furnished,1483,1251,Studio,8,5,12,2,No,No,0.93,2.94,4.48,137.29
+PROP0472,Palam Vihar,2,1,Fully-Furnished,1585,1336,Apartment,3,2,3,2,No,Yes,4.13,1.24,4.13,203.46
+PROP0473,Sector 45,2,3,Unfurnished,883,722,Studio,5,1,2,1,No,Yes,3.87,0.76,0.6,122.2
+PROP0474,Sushant Lok,4,2,Semi-Furnished,2440,1977,Apartment,15,1,5,1,No,Yes,3.02,0.6,1.21,237.46
+PROP0475,Sushant Lok,3,1,Fully-Furnished,1603,1344,Apartment,1,12,16,3,No,No,1.75,2.04,0.12,215.62
+PROP0476,Palam Vihar,1,3,Fully-Furnished,2528,2077,Independent House,17,8,9,0,Yes,Yes,1.39,1.87,1.59,308.16
+PROP0477,Sector 57,3,4,Fully-Furnished,4726,3826,Builder Floor,9,15,21,1,Yes,Yes,0.7,1.97,0.63,1034.89
+PROP0478,Golf Course Road,5,1,Fully-Furnished,2608,2204,Studio,16,4,6,3,No,Yes,2.6,0.36,2.42,319.85
+PROP0479,Golf Course Road,4,1,Fully-Furnished,4487,3634,Studio,12,6,11,3,Yes,Yes,2.97,2.69,3.42,578.07
+PROP0480,Palam Vihar,3,4,Semi-Furnished,3343,2678,Independent House,17,12,20,0,No,No,1.86,1.23,4.39,387.78
+PROP0481,Sector 56,2,2,Semi-Furnished,1837,1471,Independent House,12,19,22,2,No,No,2.43,1.01,3.77,307.81
+PROP0482,Sector 56,5,4,Semi-Furnished,2294,1906,Independent House,16,12,21,3,No,No,1.88,1.44,4.7,428.8
+PROP0483,Golf Course Road,5,1,Semi-Furnished,1152,959,Penthouse,4,6,13,3,Yes,Yes,3.24,1.23,0.36,306.19
+PROP0484,Golf Course Road,3,4,Unfurnished,2200,1794,Penthouse,10,9,18,3,No,No,4.52,2.6,0.16,349.21
+PROP0485,Sushant Lok,3,3,Semi-Furnished,3645,2974,Penthouse,6,14,15,2,No,Yes,0.9,2.79,3.34,621.17
+PROP0486,Sector 57,4,4,Fully-Furnished,1102,900,Apartment,9,5,10,2,Yes,No,1.97,0.98,1.52,219.43
+PROP0487,Sector 45,1,1,Fully-Furnished,1662,1386,Studio,16,4,7,0,Yes,Yes,0.79,2.61,1.34,208.57
+PROP0488,Sector 56,3,4,Semi-Furnished,2402,1928,Builder Floor,14,1,5,1,No,No,3.16,2.37,1.72,346.66
+PROP0489,Golf Course Road,3,2,Fully-Furnished,4924,4167,Apartment,17,14,18,2,Yes,No,3.67,2.8,1.42,543.69
+PROP0490,Sushant Lok,2,4,Semi-Furnished,4096,3322,Studio,18,15,22,1,Yes,No,4.67,0.81,2.61,266.86
+PROP0491,DLF Phase 1,5,2,Fully-Furnished,3880,3297,Studio,1,18,26,1,No,Yes,1.47,1.77,2.26,526.72
+PROP0492,Sushant Lok,1,3,Unfurnished,1288,1041,Independent House,3,8,13,2,No,Yes,4.76,0.9,2.61,147.93
+PROP0493,Sector 56,2,2,Unfurnished,4080,3421,Independent House,2,18,25,3,No,Yes,0.41,2.49,3.4,849.71
+PROP0494,Sector 56,4,4,Semi-Furnished,4098,3324,Apartment,6,6,9,0,Yes,No,3.05,0.12,2.0,759.82
+PROP0495,Sushant Lok,4,1,Semi-Furnished,3324,2672,Independent House,17,3,6,1,Yes,Yes,0.38,1.74,1.33,434.15
+PROP0496,Sector 45,3,2,Semi-Furnished,4959,4184,Studio,9,2,5,3,Yes,Yes,4.48,1.08,0.91,767.15
+PROP0497,Palam Vihar,3,3,Fully-Furnished,2166,1825,Independent House,6,19,23,2,No,Yes,2.7,1.04,1.81,387.95
+PROP0498,Sector 56,4,2,Semi-Furnished,4753,3898,Penthouse,7,10,16,1,Yes,Yes,3.38,1.97,3.73,1298.63
+PROP0499,Sushant Lok,3,2,Unfurnished,4641,3875,Independent House,5,0,5,1,Yes,Yes,4.17,2.57,3.81,622.97
+PROP0500,Golf Course Road,1,2,Fully-Furnished,848,702,Studio,0,5,13,1,No,Yes,0.84,1.87,3.37,113.45
+PROP0501,Sushant Lok,3,3,Semi-Furnished,2690,2266,Apartment,3,10,15,3,No,No,0.29,2.57,1.25,322.3
+PROP0502,Sector 57,5,4,Fully-Furnished,4903,3999,Builder Floor,13,0,5,3,No,No,4.41,0.87,2.98,925.81
+PROP0503,Palam Vihar,3,2,Fully-Furnished,1233,1018,Independent House,16,6,8,3,Yes,Yes,1.64,1.61,2.9,180.12
+PROP0504,DLF Phase 1,2,2,Semi-Furnished,3100,2555,Studio,19,5,10,1,No,No,0.73,1.41,2.47,189.07
+PROP0505,Sector 45,1,1,Fully-Furnished,4911,4015,Builder Floor,17,13,20,1,Yes,No,2.4,0.13,2.79,680.49
+PROP0506,DLF Phase 1,2,3,Unfurnished,3133,2646,Builder Floor,10,1,3,0,Yes,Yes,3.03,1.71,2.51,286.94
+PROP0507,Palam Vihar,2,2,Unfurnished,1597,1290,Penthouse,13,3,9,0,No,Yes,0.25,2.02,2.87,219.92
+PROP0508,Palam Vihar,5,3,Fully-Furnished,3245,2620,Builder Floor,8,10,17,3,No,No,1.45,1.82,3.61,515.69
+PROP0509,Palam Vihar,1,2,Semi-Furnished,1658,1374,Studio,14,14,19,3,No,Yes,0.26,2.24,0.64,137.15
+PROP0510,DLF Phase 1,1,4,Fully-Furnished,2982,2483,Studio,11,17,26,2,No,No,2.16,1.76,3.77,218.42
+PROP0511,Golf Course Road,1,4,Unfurnished,1110,898,Independent House,9,0,4,3,No,No,4.49,0.29,0.77,134.84
+PROP0512,Palam Vihar,1,2,Fully-Furnished,3343,2739,Independent House,18,2,3,0,Yes,No,4.91,0.44,0.43,358.35
+PROP0513,Sushant Lok,1,4,Fully-Furnished,2970,2516,Independent House,18,2,10,0,Yes,Yes,3.22,1.83,4.88,292.76
+PROP0514,DLF Phase 1,5,2,Unfurnished,3908,3174,Builder Floor,5,6,14,0,Yes,No,0.89,0.9,4.79,493.5
+PROP0515,Palam Vihar,3,4,Fully-Furnished,3448,2873,Builder Floor,19,0,7,1,No,Yes,4.54,0.33,0.4,361.5
+PROP0516,Sushant Lok,2,1,Fully-Furnished,3108,2601,Penthouse,5,10,18,1,Yes,Yes,2.63,1.35,2.27,566.97
+PROP0517,Golf Course Road,1,1,Semi-Furnished,3697,3040,Independent House,7,5,7,3,No,Yes,0.85,1.71,1.01,577.76
+PROP0518,Sector 57,3,1,Semi-Furnished,1404,1189,Apartment,0,19,22,2,No,Yes,4.62,1.05,2.48,271.33
+PROP0519,Golf Course Road,3,3,Unfurnished,3300,2761,Penthouse,16,2,11,2,Yes,Yes,3.81,2.19,4.17,480.54
+PROP0520,Palam Vihar,2,3,Unfurnished,1522,1252,Apartment,16,18,19,2,Yes,No,3.69,1.97,4.76,117.26
+PROP0521,DLF Phase 1,5,1,Unfurnished,4687,3883,Builder Floor,14,1,9,1,No,Yes,3.57,1.07,3.21,454.31
+PROP0522,Sector 56,4,3,Semi-Furnished,1087,907,Penthouse,6,17,25,0,Yes,Yes,1.08,2.29,1.83,324.13
+PROP0523,Palam Vihar,4,4,Unfurnished,2607,2162,Penthouse,18,11,18,0,No,Yes,1.13,1.98,3.06,355.29
+PROP0524,Sector 56,3,2,Unfurnished,3722,3141,Studio,2,9,14,1,Yes,Yes,3.47,1.95,1.63,586.49
+PROP0525,Sushant Lok,2,2,Unfurnished,2723,2226,Builder Floor,10,4,8,2,Yes,Yes,1.18,1.7,4.56,270.61
+PROP0526,Sector 57,4,2,Semi-Furnished,1186,966,Builder Floor,19,8,14,2,Yes,No,2.25,0.13,4.36,175.33
+PROP0527,Sector 45,3,1,Fully-Furnished,3124,2532,Penthouse,18,1,2,3,Yes,Yes,3.93,2.12,2.84,673.42
+PROP0528,Golf Course Road,5,3,Unfurnished,3494,2801,Builder Floor,8,1,6,3,Yes,Yes,3.94,1.19,1.69,549.6
+PROP0529,Sector 57,4,4,Fully-Furnished,3755,3012,Penthouse,9,5,9,2,No,No,2.32,2.83,1.54,1040.35
+PROP0530,Palam Vihar,3,4,Unfurnished,2367,1996,Studio,1,9,13,1,Yes,Yes,3.98,2.47,0.26,278.57
+PROP0531,Sector 56,3,1,Fully-Furnished,3167,2641,Penthouse,0,17,24,2,Yes,No,4.21,1.8,4.1,951.4
+PROP0532,Golf Course Road,1,4,Semi-Furnished,2692,2242,Builder Floor,15,11,20,3,Yes,No,3.31,0.83,2.31,274.06
+PROP0533,Sector 56,5,4,Semi-Furnished,3622,3008,Builder Floor,17,3,11,2,No,No,1.22,0.69,1.69,585.88
+PROP0534,DLF Phase 1,1,4,Unfurnished,3250,2737,Penthouse,16,16,24,1,No,No,1.44,1.09,2.41,298.74
+PROP0535,Sector 56,2,4,Fully-Furnished,3008,2478,Penthouse,5,14,19,0,No,Yes,1.64,1.48,4.11,795.34
+PROP0536,DLF Phase 1,1,3,Semi-Furnished,1848,1558,Penthouse,13,5,11,1,No,Yes,0.67,0.96,0.71,220.96
+PROP0537,Sushant Lok,1,4,Unfurnished,808,660,Independent House,14,15,17,1,No,No,1.44,1.59,4.3,70.91
+PROP0538,Golf Course Road,4,2,Unfurnished,1531,1295,Builder Floor,13,16,19,3,Yes,No,1.13,0.58,4.5,195.57
+PROP0539,Golf Course Road,3,1,Semi-Furnished,1291,1077,Builder Floor,2,2,7,1,Yes,Yes,2.33,2.94,4.74,217.95
+PROP0540,Sector 45,5,3,Semi-Furnished,2686,2183,Independent House,18,9,11,1,Yes,No,4.55,0.41,2.05,511.51
+PROP0541,Palam Vihar,1,4,Unfurnished,3371,2791,Penthouse,11,4,7,3,No,No,0.61,2.8,1.16,428.12
+PROP0542,DLF Phase 1,5,3,Fully-Furnished,1694,1400,Studio,1,13,17,3,No,No,3.63,2.75,1.93,207.88
+PROP0543,Sector 45,1,4,Fully-Furnished,4744,3827,Penthouse,2,12,18,0,Yes,Yes,3.47,1.62,1.73,1332.66
+PROP0544,Sector 56,2,2,Fully-Furnished,828,686,Penthouse,17,5,10,2,No,No,0.57,2.2,0.96,160.24
+PROP0545,Sector 56,1,1,Unfurnished,4043,3298,Independent House,0,11,15,1,No,Yes,4.62,1.36,3.08,746.74
+PROP0546,Sector 45,4,4,Semi-Furnished,3425,2748,Builder Floor,19,7,9,3,No,Yes,2.89,1.93,2.44,507.31
+PROP0547,Golf Course Road,3,4,Unfurnished,2368,2006,Penthouse,5,4,9,0,Yes,Yes,1.88,1.09,4.34,479.95
+PROP0548,Sector 56,2,4,Semi-Furnished,1012,842,Builder Floor,4,14,19,2,Yes,No,3.81,0.97,0.26,183.62
+PROP0549,Sushant Lok,1,4,Fully-Furnished,3435,2898,Apartment,0,15,22,3,No,No,1.36,1.78,3.25,390.59
+PROP0550,Sushant Lok,5,1,Fully-Furnished,2419,2016,Builder Floor,18,0,1,2,No,Yes,3.5,1.54,3.84,264.09
+PROP0551,Sector 45,2,1,Semi-Furnished,4732,3870,Studio,0,15,19,2,No,Yes,0.29,1.78,3.82,826.0
+PROP0552,DLF Phase 1,2,2,Semi-Furnished,3076,2539,Studio,15,4,9,1,No,Yes,4.21,0.93,4.44,203.5
+PROP0553,DLF Phase 1,1,1,Unfurnished,4746,3957,Penthouse,11,2,10,1,Yes,No,2.3,1.16,3.67,509.1
+PROP0554,Sector 45,2,4,Fully-Furnished,1726,1463,Builder Floor,7,19,27,3,No,No,3.22,0.34,4.65,311.46
+PROP0555,DLF Phase 1,5,2,Unfurnished,3848,3127,Penthouse,15,14,15,2,Yes,Yes,1.18,0.25,1.73,558.88
+PROP0556,Golf Course Road,2,2,Unfurnished,3392,2861,Independent House,0,12,17,3,Yes,Yes,3.42,0.84,2.57,604.01
+PROP0557,Golf Course Road,5,2,Unfurnished,3905,3304,Studio,3,15,16,3,Yes,No,3.88,0.32,0.17,549.4
+PROP0558,DLF Phase 1,1,4,Fully-Furnished,1701,1417,Penthouse,9,10,11,2,No,Yes,2.42,0.4,0.13,239.87
+PROP0559,Sushant Lok,3,3,Unfurnished,3592,3040,Independent House,10,1,3,3,Yes,No,3.13,2.46,1.28,428.9
+PROP0560,DLF Phase 1,2,4,Unfurnished,2891,2370,Penthouse,16,5,7,2,Yes,No,2.34,0.21,0.59,307.03
+PROP0561,Golf Course Road,3,1,Unfurnished,3919,3321,Builder Floor,6,5,14,2,No,Yes,4.48,2.01,1.38,524.07
+PROP0562,Sector 57,5,1,Unfurnished,2173,1814,Builder Floor,11,13,17,2,No,Yes,2.54,0.89,0.97,402.04
+PROP0563,Palam Vihar,2,4,Unfurnished,4538,3639,Builder Floor,6,10,13,2,No,No,4.22,2.63,0.24,487.49
+PROP0564,Sector 56,4,4,Unfurnished,1154,975,Builder Floor,11,7,8,0,Yes,No,4.03,1.51,4.56,178.33
+PROP0565,Sector 57,3,2,Fully-Furnished,4190,3453,Apartment,14,7,9,2,No,No,2.11,0.99,0.14,654.96
+PROP0566,DLF Phase 1,2,4,Unfurnished,4417,3635,Independent House,1,0,6,1,Yes,No,1.23,1.6,3.71,572.65
+PROP0567,Sushant Lok,3,2,Semi-Furnished,4232,3505,Independent House,13,6,15,1,Yes,No,2.09,1.21,0.85,534.63
+PROP0568,Sector 45,2,1,Unfurnished,2953,2384,Builder Floor,12,5,10,1,No,Yes,4.15,1.74,4.57,398.51
+PROP0569,DLF Phase 1,1,2,Unfurnished,2641,2174,Apartment,3,7,11,2,Yes,No,1.22,0.43,4.47,232.53
+PROP0570,Sushant Lok,3,4,Fully-Furnished,4984,4194,Builder Floor,13,18,23,1,Yes,No,2.67,2.99,3.3,549.88
+PROP0571,Palam Vihar,4,1,Fully-Furnished,1762,1410,Apartment,13,19,28,0,Yes,No,4.05,1.33,3.39,209.52
+PROP0572,DLF Phase 1,4,3,Semi-Furnished,3096,2519,Builder Floor,15,7,14,3,Yes,Yes,1.83,1.11,0.13,336.55
+PROP0573,Golf Course Road,5,2,Semi-Furnished,3616,2893,Studio,6,13,21,2,No,Yes,3.25,2.16,4.93,496.39
+PROP0574,Sector 45,2,1,Fully-Furnished,3743,3072,Studio,18,17,21,1,Yes,No,1.3,1.16,4.4,447.01
+PROP0575,Sushant Lok,3,2,Fully-Furnished,1656,1385,Penthouse,1,15,23,0,No,No,0.64,2.52,4.49,325.25
+PROP0576,Sushant Lok,5,1,Unfurnished,3546,2978,Builder Floor,9,8,14,3,Yes,Yes,3.99,1.42,3.33,432.24
+PROP0577,Sushant Lok,3,1,Fully-Furnished,4237,3589,Independent House,17,14,19,0,Yes,Yes,0.58,2.19,1.79,553.18
+PROP0578,Palam Vihar,2,2,Semi-Furnished,1010,838,Penthouse,16,9,16,1,No,Yes,1.43,0.41,4.48,137.2
+PROP0579,DLF Phase 1,4,3,Unfurnished,4628,3761,Studio,4,15,21,0,Yes,Yes,4.29,2.55,1.53,453.44
+PROP0580,Palam Vihar,1,1,Semi-Furnished,923,781,Builder Floor,11,3,6,3,Yes,No,1.8,2.23,2.86,95.79
+PROP0581,Sector 56,4,1,Unfurnished,2295,1924,Penthouse,5,19,24,1,Yes,Yes,4.87,0.71,0.59,603.99
+PROP0582,Sector 56,5,1,Fully-Furnished,866,717,Builder Floor,8,12,21,3,Yes,No,4.9,0.52,4.62,183.5
+PROP0583,DLF Phase 1,1,3,Semi-Furnished,1124,938,Studio,19,4,11,0,Yes,No,1.41,1.02,0.79,66.45
+PROP0584,Golf Course Road,5,3,Unfurnished,4626,3914,Penthouse,0,6,10,2,Yes,Yes,0.3,2.93,1.2,1258.41
+PROP0585,Palam Vihar,2,4,Unfurnished,2290,1913,Studio,14,8,15,2,No,Yes,3.55,0.84,2.83,174.03
+PROP0586,Sector 45,1,2,Fully-Furnished,2584,2114,Apartment,5,7,12,2,No,Yes,2.31,1.42,3.84,434.22
+PROP0587,Sushant Lok,5,3,Fully-Furnished,1704,1423,Studio,18,15,17,2,No,Yes,0.59,0.19,3.13,165.16
+PROP0588,Sushant Lok,2,2,Fully-Furnished,3307,2652,Builder Floor,17,5,11,3,Yes,No,3.57,1.25,1.24,306.35
+PROP0589,DLF Phase 1,4,4,Semi-Furnished,3298,2702,Independent House,5,15,22,2,Yes,No,0.25,1.76,0.1,532.46
+PROP0590,Golf Course Road,2,2,Unfurnished,2363,1938,Studio,12,5,13,3,Yes,No,4.36,2.86,3.81,199.81
+PROP0591,Sector 56,3,3,Fully-Furnished,2198,1776,Independent House,0,13,19,1,No,Yes,0.78,1.6,4.93,611.04
+PROP0592,Sector 56,2,2,Semi-Furnished,4516,3618,Apartment,12,0,8,2,Yes,No,0.72,2.48,4.07,621.81
+PROP0593,Sushant Lok,2,3,Semi-Furnished,2409,1943,Penthouse,6,8,15,3,No,Yes,0.96,1.69,2.36,386.65
+PROP0594,DLF Phase 1,3,2,Semi-Furnished,2872,2391,Penthouse,14,12,14,2,Yes,No,4.81,0.22,4.53,350.41
+PROP0595,Palam Vihar,5,3,Fully-Furnished,1989,1670,Independent House,11,18,24,2,Yes,Yes,3.5,1.01,2.11,375.05
+PROP0596,Sector 56,5,3,Fully-Furnished,4104,3485,Penthouse,0,16,25,2,Yes,No,4.03,1.77,2.67,1449.88
+PROP0597,Palam Vihar,2,2,Unfurnished,2469,2017,Studio,14,10,16,3,No,No,2.05,2.86,2.44,181.44
+PROP0598,Golf Course Road,3,4,Unfurnished,2957,2454,Independent House,3,7,11,0,Yes,Yes,1.75,2.59,2.29,547.2
+PROP0599,Sector 56,3,1,Fully-Furnished,1864,1578,Builder Floor,12,4,11,2,No,No,1.25,0.76,3.9,320.46
+PROP0600,Sector 56,4,4,Semi-Furnished,4948,3999,Studio,4,9,12,2,Yes,No,2.46,0.74,2.68,862.61
+PROP0601,Sector 57,5,2,Semi-Furnished,2024,1691,Studio,1,6,11,1,Yes,Yes,2.8,0.68,1.65,440.07
+PROP0602,Sector 56,1,4,Semi-Furnished,4037,3381,Studio,0,9,10,0,No,Yes,3.2,2.78,1.36,587.41
+PROP0603,Sector 45,5,3,Unfurnished,2595,2087,Builder Floor,15,3,6,3,Yes,Yes,1.36,2.57,0.28,465.34
+PROP0604,DLF Phase 1,5,1,Semi-Furnished,1666,1404,Apartment,5,8,16,1,Yes,Yes,4.75,2.35,2.96,204.42
+PROP0605,DLF Phase 1,4,2,Unfurnished,4158,3495,Penthouse,15,13,22,2,Yes,Yes,0.93,1.24,1.23,563.76
+PROP0606,Palam Vihar,1,2,Unfurnished,2201,1764,Independent House,13,1,10,1,Yes,No,4.83,1.56,0.83,224.27
+PROP0607,Golf Course Road,4,2,Semi-Furnished,4433,3566,Apartment,2,8,10,1,No,Yes,0.17,1.45,3.3,751.82
+PROP0608,Sector 56,1,1,Semi-Furnished,4644,3726,Independent House,14,0,4,2,No,No,2.46,0.83,3.44,678.89
+PROP0609,Sector 45,2,3,Fully-Furnished,4411,3602,Penthouse,2,9,14,0,Yes,No,1.73,1.56,3.79,1308.34
+PROP0610,Palam Vihar,1,2,Fully-Furnished,947,781,Builder Floor,1,9,12,0,Yes,Yes,2.3,0.19,2.57,143.32
+PROP0611,Sector 57,4,4,Semi-Furnished,4106,3394,Studio,0,19,20,1,No,No,2.9,0.48,4.48,748.92
+PROP0612,Palam Vihar,5,2,Unfurnished,2527,2055,Studio,8,2,8,2,Yes,No,2.23,2.67,4.69,277.29
+PROP0613,Palam Vihar,1,2,Unfurnished,4469,3778,Builder Floor,8,5,7,3,No,Yes,2.13,2.28,4.06,445.14
+PROP0614,Sector 56,1,2,Unfurnished,3479,2847,Apartment,6,5,14,1,Yes,No,3.69,1.33,3.21,443.42
+PROP0615,Sector 57,3,2,Unfurnished,4301,3450,Apartment,2,1,2,3,No,Yes,3.46,1.6,1.59,746.55
+PROP0616,Palam Vihar,5,3,Unfurnished,2897,2361,Independent House,17,17,26,1,No,Yes,4.18,1.17,4.92,350.54
+PROP0617,Sector 45,2,4,Fully-Furnished,3047,2518,Builder Floor,10,1,8,1,No,Yes,1.32,2.25,1.44,566.6
+PROP0618,Sector 45,4,3,Semi-Furnished,1406,1153,Apartment,6,11,13,2,No,No,3.09,2.37,1.09,257.2
+PROP0619,DLF Phase 1,2,4,Fully-Furnished,4092,3329,Builder Floor,8,4,10,2,Yes,No,2.97,2.31,2.27,448.65
+PROP0620,Sector 57,5,2,Unfurnished,2561,2065,Penthouse,0,19,27,3,Yes,No,1.91,2.2,0.38,833.2
+PROP0621,Sector 57,1,1,Unfurnished,2900,2438,Studio,13,6,8,3,No,No,2.48,0.69,4.89,280.28
+PROP0622,DLF Phase 1,1,3,Unfurnished,4097,3481,Studio,19,15,20,0,No,Yes,1.64,1.08,2.98,214.19
+PROP0623,Palam Vihar,5,1,Unfurnished,3315,2706,Studio,5,19,25,2,No,No,0.8,1.46,2.83,394.6
+PROP0624,Sector 57,1,3,Semi-Furnished,1644,1346,Builder Floor,6,0,3,1,No,Yes,1.15,1.06,3.31,277.71
+PROP0625,Sector 45,1,2,Unfurnished,3278,2723,Builder Floor,9,0,2,1,Yes,No,0.62,2.29,2.54,478.54
+PROP0626,Sector 45,1,3,Semi-Furnished,2512,2099,Independent House,6,16,22,0,No,No,3.45,1.06,0.26,475.98
+PROP0627,Sector 56,4,2,Unfurnished,2772,2271,Studio,1,0,3,2,No,No,3.34,0.5,3.1,436.61
+PROP0628,Sector 57,4,3,Semi-Furnished,918,775,Independent House,3,19,21,1,No,No,4.76,1.26,3.61,218.63
+PROP0629,Palam Vihar,3,2,Fully-Furnished,1682,1392,Studio,16,12,13,0,No,No,3.68,2.94,2.14,146.93
+PROP0630,DLF Phase 1,2,2,Unfurnished,1980,1628,Independent House,0,8,16,0,No,Yes,0.36,0.76,3.81,268.61
+PROP0631,DLF Phase 1,5,4,Semi-Furnished,3794,3157,Independent House,9,14,15,1,No,No,4.43,1.88,1.21,515.21
+PROP0632,Palam Vihar,5,2,Fully-Furnished,848,718,Penthouse,18,2,7,1,No,No,4.33,1.36,1.18,135.66
+PROP0633,Golf Course Road,5,4,Unfurnished,2516,2112,Independent House,14,13,19,3,Yes,No,2.27,0.31,0.89,402.43
+PROP0634,Sushant Lok,3,2,Unfurnished,4680,3753,Builder Floor,9,10,13,2,No,No,2.97,1.51,1.92,464.64
+PROP0635,Sector 56,4,1,Unfurnished,1269,1036,Independent House,18,11,18,3,No,Yes,4.88,2.14,4.25,186.05
+PROP0636,DLF Phase 1,3,2,Semi-Furnished,2968,2444,Studio,11,12,14,0,No,No,2.71,1.59,4.16,232.27
+PROP0637,Sector 57,5,1,Semi-Furnished,4103,3346,Independent House,15,12,19,1,Yes,Yes,4.54,2.63,1.98,866.17
+PROP0638,Sector 56,2,1,Fully-Furnished,4758,3972,Apartment,8,0,2,3,Yes,No,0.51,0.94,2.99,814.88
+PROP0639,Sector 57,1,2,Semi-Furnished,3936,3311,Studio,14,9,14,0,Yes,Yes,1.04,0.35,3.63,470.2
+PROP0640,Golf Course Road,4,1,Semi-Furnished,3826,3200,Apartment,16,2,9,2,No,Yes,2.26,2.82,1.28,443.29
+PROP0641,Sector 45,4,4,Unfurnished,4271,3628,Studio,13,3,6,1,No,Yes,2.97,1.2,0.92,573.64
+PROP0642,Sector 56,3,3,Unfurnished,2674,2175,Builder Floor,17,15,19,3,No,Yes,4.1,1.77,4.86,322.3
+PROP0643,DLF Phase 1,4,2,Unfurnished,4184,3530,Builder Floor,1,7,8,2,Yes,Yes,4.94,2.4,3.13,518.37
+PROP0644,Sector 56,5,1,Unfurnished,833,698,Builder Floor,3,15,18,3,No,No,2.01,1.04,4.91,165.43
+PROP0645,Sector 56,5,2,Unfurnished,4683,3831,Apartment,17,16,25,0,Yes,Yes,0.33,2.18,1.76,691.76
+PROP0646,Sector 56,3,4,Unfurnished,2661,2226,Penthouse,6,18,23,2,Yes,No,4.03,0.49,3.54,599.86
+PROP0647,Sushant Lok,5,2,Unfurnished,3124,2515,Studio,12,14,22,3,Yes,Yes,3.06,0.94,1.19,302.59
+PROP0648,Sector 56,2,2,Fully-Furnished,1870,1569,Builder Floor,14,15,17,2,Yes,Yes,1.07,0.52,1.38,320.03
+PROP0649,Sector 57,3,1,Fully-Furnished,3918,3238,Studio,0,14,17,0,Yes,No,2.52,2.45,2.61,765.77
+PROP0650,Sector 45,2,4,Fully-Furnished,1121,913,Apartment,10,1,8,2,No,Yes,3.74,0.75,1.67,182.42
+PROP0651,Golf Course Road,1,3,Fully-Furnished,4465,3718,Penthouse,9,10,14,3,No,Yes,3.88,2.18,0.92,782.8
+PROP0652,Palam Vihar,2,3,Unfurnished,4278,3559,Apartment,4,0,9,0,Yes,Yes,2.55,2.84,1.39,492.29
+PROP0653,Sector 56,1,1,Fully-Furnished,1707,1383,Studio,15,14,21,1,No,Yes,1.6,1.63,0.28,200.65
+PROP0654,DLF Phase 1,1,2,Unfurnished,4199,3365,Penthouse,10,18,19,3,No,No,4.87,1.67,3.55,414.64
+PROP0655,Sector 56,2,1,Fully-Furnished,4102,3370,Penthouse,5,3,7,3,Yes,Yes,3.35,1.44,2.51,1117.35
+PROP0656,DLF Phase 1,3,1,Semi-Furnished,3455,2862,Apartment,8,10,16,0,Yes,Yes,2.1,1.05,0.56,376.92
+PROP0657,Sector 57,5,1,Fully-Furnished,2368,1998,Builder Floor,12,4,10,0,No,No,1.47,1.48,0.94,496.05
+PROP0658,DLF Phase 1,5,2,Fully-Furnished,1940,1642,Studio,7,2,8,1,No,No,3.68,1.85,0.6,213.48
+PROP0659,Palam Vihar,1,4,Unfurnished,1773,1465,Independent House,13,12,17,3,No,Yes,1.29,2.96,3.1,187.65
+PROP0660,Sector 45,1,1,Fully-Furnished,2138,1790,Independent House,0,9,12,0,No,Yes,0.94,2.82,0.56,544.23
+PROP0661,DLF Phase 1,3,2,Semi-Furnished,4594,3776,Apartment,16,10,12,1,Yes,No,2.7,2.6,3.8,363.34
+PROP0662,DLF Phase 1,4,4,Unfurnished,1126,942,Studio,4,17,20,1,No,Yes,1.52,2.68,0.2,112.79
+PROP0663,Sector 45,2,1,Unfurnished,4281,3468,Studio,1,1,10,0,Yes,No,3.18,1.46,1.32,645.44
+PROP0664,Palam Vihar,1,3,Fully-Furnished,2265,1854,Apartment,8,6,9,3,Yes,Yes,0.68,2.01,4.46,265.88
+PROP0665,Sector 56,5,4,Unfurnished,2990,2486,Studio,3,8,11,2,No,No,3.31,2.7,3.62,471.05
+PROP0666,DLF Phase 1,3,1,Unfurnished,4136,3312,Builder Floor,16,9,10,2,No,No,1.49,1.24,0.46,335.22
+PROP0667,Sector 45,2,4,Unfurnished,4514,3774,Apartment,16,17,19,1,No,No,0.1,2.89,4.12,509.97
+PROP0668,Sector 57,3,4,Unfurnished,2248,1892,Builder Floor,17,6,9,2,Yes,Yes,0.72,1.31,2.52,325.94
+PROP0669,Sector 45,2,4,Unfurnished,2739,2245,Studio,15,6,8,2,Yes,Yes,4.67,1.84,4.25,289.84
+PROP0670,Sector 57,2,4,Unfurnished,2540,2088,Apartment,7,2,10,0,Yes,Yes,4.35,2.16,3.04,367.85
+PROP0671,Palam Vihar,1,4,Semi-Furnished,855,720,Studio,10,11,17,1,Yes,Yes,1.24,2.86,3.44,78.11
+PROP0672,Sector 56,3,4,Fully-Furnished,2042,1712,Apartment,17,6,13,3,No,No,3.91,0.81,4.97,258.98
+PROP0673,Sector 45,3,1,Semi-Furnished,2728,2221,Studio,9,16,17,1,Yes,No,3.08,2.26,1.24,407.98
+PROP0674,Golf Course Road,5,3,Unfurnished,2526,2061,Builder Floor,12,0,6,0,Yes,No,4.86,1.61,3.16,329.11
+PROP0675,Golf Course Road,5,2,Unfurnished,3832,3195,Builder Floor,16,4,6,2,No,Yes,1.93,0.88,2.36,483.2
+PROP0676,Sushant Lok,1,4,Fully-Furnished,2416,2000,Studio,17,15,21,3,Yes,Yes,3.44,2.35,0.29,176.45
+PROP0677,DLF Phase 1,1,2,Semi-Furnished,2855,2307,Apartment,9,14,17,1,Yes,Yes,0.41,1.7,0.17,265.64
+PROP0678,Palam Vihar,4,1,Fully-Furnished,2604,2123,Independent House,15,1,8,2,No,No,2.04,2.02,0.68,386.4
+PROP0679,Sector 45,5,4,Semi-Furnished,3910,3303,Builder Floor,19,8,11,1,Yes,Yes,4.82,1.04,3.28,625.09
+PROP0680,Golf Course Road,2,3,Unfurnished,4424,3691,Builder Floor,4,6,15,3,Yes,Yes,2.74,1.5,2.88,616.1
+PROP0681,DLF Phase 1,3,2,Fully-Furnished,3033,2575,Independent House,12,3,6,1,Yes,No,1.51,1.89,2.81,396.66
+PROP0682,Golf Course Road,1,4,Fully-Furnished,4115,3449,Studio,17,19,26,1,Yes,No,0.69,1.27,0.26,378.47
+PROP0683,Sector 45,3,1,Unfurnished,2046,1733,Apartment,16,17,21,1,No,Yes,3.55,0.68,2.4,254.81
+PROP0684,Sector 57,3,3,Fully-Furnished,3073,2491,Studio,8,3,11,2,Yes,No,3.26,2.89,4.63,484.16
+PROP0685,Sector 45,4,2,Semi-Furnished,2249,1885,Penthouse,13,12,14,3,No,Yes,1.93,1.58,2.05,557.42
+PROP0686,Sushant Lok,5,2,Semi-Furnished,2539,2033,Builder Floor,16,0,8,3,Yes,No,4.76,2.23,3.16,262.66
+PROP0687,Sector 45,1,4,Semi-Furnished,3876,3230,Penthouse,3,2,11,2,No,No,0.21,1.29,3.92,930.52
+PROP0688,Sector 45,3,3,Semi-Furnished,4502,3707,Builder Floor,17,15,23,2,No,No,1.59,1.13,3.94,640.35
+PROP0689,Sushant Lok,1,3,Unfurnished,1310,1070,Builder Floor,19,3,9,2,No,Yes,4.61,1.28,2.64,83.9
+PROP0690,Palam Vihar,2,3,Fully-Furnished,3465,2921,Penthouse,14,15,16,0,Yes,Yes,1.67,1.29,4.3,564.09
+PROP0691,Sector 45,4,3,Semi-Furnished,3245,2734,Penthouse,10,18,25,1,Yes,Yes,1.34,1.68,2.02,923.52
+PROP0692,Sushant Lok,2,1,Unfurnished,1297,1039,Studio,11,0,1,1,Yes,No,2.72,1.68,4.45,94.97
+PROP0693,DLF Phase 1,1,3,Fully-Furnished,1689,1402,Penthouse,8,4,11,3,No,No,4.14,1.54,1.28,218.86
+PROP0694,Sector 57,1,2,Fully-Furnished,2106,1723,Studio,12,18,20,1,Yes,No,0.61,0.49,1.47,284.17
+PROP0695,Sector 57,5,2,Unfurnished,1501,1231,Studio,14,10,18,0,Yes,No,4.72,1.54,0.36,200.02
+PROP0696,Sector 45,3,1,Unfurnished,1823,1534,Studio,14,12,14,2,Yes,Yes,4.0,0.59,4.0,221.48
+PROP0697,Palam Vihar,3,2,Semi-Furnished,1923,1568,Builder Floor,4,19,22,3,Yes,Yes,0.99,0.47,2.14,304.58
+PROP0698,Palam Vihar,2,2,Fully-Furnished,2209,1871,Builder Floor,18,4,7,3,No,Yes,3.59,2.8,1.22,217.9
+PROP0699,DLF Phase 1,4,3,Fully-Furnished,3947,3193,Penthouse,19,3,4,1,No,No,1.99,1.85,1.24,501.6
+PROP0700,Sector 45,3,2,Unfurnished,3202,2667,Builder Floor,13,3,8,3,Yes,No,2.07,2.01,4.52,475.42
+PROP0701,Sector 57,5,1,Fully-Furnished,4942,4119,Penthouse,16,3,8,2,Yes,Yes,3.94,1.27,4.19,1281.05
+PROP0702,Palam Vihar,2,3,Semi-Furnished,2541,2064,Builder Floor,17,3,8,3,Yes,No,4.82,2.74,2.81,227.09
+PROP0703,Sector 45,2,4,Fully-Furnished,3966,3237,Apartment,2,19,28,2,No,Yes,0.72,1.95,3.12,803.02
+PROP0704,Golf Course Road,5,3,Unfurnished,4460,3754,Apartment,1,17,23,0,Yes,No,2.16,2.33,2.42,722.13
+PROP0705,Palam Vihar,4,1,Unfurnished,3651,3059,Penthouse,0,17,23,0,No,No,2.46,1.17,2.02,734.01
+PROP0706,Sushant Lok,5,3,Semi-Furnished,2529,2064,Builder Floor,9,15,18,2,No,Yes,1.94,2.88,4.59,328.01
+PROP0707,Golf Course Road,4,3,Semi-Furnished,3965,3277,Builder Floor,18,8,13,1,Yes,Yes,1.88,2.48,0.72,507.99
+PROP0708,Palam Vihar,5,1,Fully-Furnished,1655,1329,Studio,16,17,24,3,Yes,No,0.36,2.58,2.15,188.38
+PROP0709,Sector 57,5,3,Fully-Furnished,2175,1762,Independent House,11,1,4,1,Yes,Yes,3.46,0.6,1.79,584.45
+PROP0710,Sector 56,1,1,Unfurnished,3096,2552,Penthouse,0,3,5,3,No,Yes,2.24,0.89,2.54,701.6
+PROP0711,Golf Course Road,2,1,Semi-Furnished,3216,2586,Independent House,11,11,16,0,No,No,1.05,0.93,2.34,469.03
+PROP0712,DLF Phase 1,5,4,Semi-Furnished,892,751,Independent House,16,6,9,0,Yes,No,4.1,0.89,2.64,105.75
+PROP0713,DLF Phase 1,5,2,Semi-Furnished,4769,3986,Penthouse,2,14,19,0,No,No,4.03,2.58,0.79,879.92
+PROP0714,Sector 57,3,2,Fully-Furnished,3725,3155,Builder Floor,10,6,15,3,Yes,Yes,2.48,0.19,2.61,765.43
+PROP0715,Palam Vihar,2,3,Semi-Furnished,2881,2404,Penthouse,16,16,17,0,Yes,No,1.56,0.32,1.29,403.71
+PROP0716,Sector 45,3,3,Unfurnished,4719,3997,Independent House,2,15,19,0,No,No,3.23,0.89,1.0,1046.95
+PROP0717,Palam Vihar,2,4,Unfurnished,2644,2188,Builder Floor,7,18,23,0,No,No,1.51,0.68,0.42,299.35
+PROP0718,Sector 57,3,4,Fully-Furnished,4917,4081,Apartment,19,8,10,0,No,No,1.26,0.77,3.84,650.08
+PROP0719,DLF Phase 1,5,4,Fully-Furnished,2951,2504,Penthouse,3,13,15,1,No,No,3.68,2.41,2.19,578.78
+PROP0720,Palam Vihar,5,1,Semi-Furnished,1280,1065,Penthouse,6,16,17,0,Yes,Yes,0.3,1.73,3.17,302.29
+PROP0721,DLF Phase 1,1,4,Fully-Furnished,4012,3215,Builder Floor,13,4,12,0,Yes,No,0.56,0.12,3.67,376.32
+PROP0722,Golf Course Road,3,4,Unfurnished,3651,3052,Apartment,13,1,3,1,Yes,No,0.13,1.35,3.43,403.1
+PROP0723,Sector 45,4,3,Semi-Furnished,4046,3419,Apartment,3,19,22,1,No,Yes,0.85,1.28,2.41,867.76
+PROP0724,Golf Course Road,1,4,Unfurnished,4796,4027,Builder Floor,15,15,17,3,Yes,No,0.44,0.43,2.0,474.57
+PROP0725,DLF Phase 1,3,1,Semi-Furnished,4061,3367,Studio,0,13,17,2,No,No,4.98,2.06,1.94,394.97
+PROP0726,DLF Phase 1,3,1,Fully-Furnished,3367,2806,Penthouse,16,13,14,0,No,Yes,1.52,2.14,3.24,451.35
+PROP0727,Sector 56,1,3,Semi-Furnished,4400,3737,Penthouse,9,0,3,0,No,No,0.83,2.19,2.52,870.46
+PROP0728,Sector 56,5,4,Semi-Furnished,3627,2918,Independent House,15,2,7,0,Yes,Yes,1.28,2.21,4.26,776.52
+PROP0729,Golf Course Road,3,4,Unfurnished,2514,2095,Builder Floor,15,6,7,3,No,No,4.69,0.1,4.39,250.57
+PROP0730,Sushant Lok,5,1,Unfurnished,4519,3679,Independent House,7,14,18,0,No,Yes,2.65,2.87,0.94,675.63
+PROP0731,Golf Course Road,1,4,Semi-Furnished,1731,1440,Independent House,6,18,24,2,No,Yes,1.89,2.46,0.77,269.54
+PROP0732,Sector 56,5,4,Fully-Furnished,3801,3156,Apartment,5,19,23,1,No,No,4.38,2.72,3.19,750.1
+PROP0733,DLF Phase 1,2,4,Fully-Furnished,4502,3636,Penthouse,15,1,8,3,No,Yes,2.04,0.15,1.58,588.78
+PROP0734,Sector 57,4,2,Unfurnished,3871,3136,Independent House,19,18,25,1,No,Yes,1.74,2.81,0.19,631.08
+PROP0735,Golf Course Road,3,3,Fully-Furnished,3728,3098,Apartment,15,8,14,0,No,No,1.12,2.45,4.45,426.72
+PROP0736,DLF Phase 1,4,2,Unfurnished,3961,3194,Builder Floor,6,18,27,0,No,No,1.95,2.53,1.21,434.09
+PROP0737,Sector 57,5,3,Fully-Furnished,2753,2238,Independent House,8,4,6,0,No,Yes,1.65,0.37,4.65,767.05
+PROP0738,Sector 57,3,1,Semi-Furnished,4471,3763,Penthouse,13,17,25,2,No,No,3.42,2.24,3.62,915.46
+PROP0739,Sector 56,5,4,Unfurnished,1654,1350,Independent House,10,15,23,2,No,Yes,1.52,2.88,3.84,347.79
+PROP0740,Golf Course Road,2,3,Unfurnished,1335,1100,Builder Floor,13,3,7,3,No,Yes,2.93,2.07,1.09,143.63
+PROP0741,Palam Vihar,1,2,Semi-Furnished,1999,1693,Independent House,6,11,17,1,Yes,No,0.42,1.75,1.25,290.65
+PROP0742,Sector 45,3,4,Unfurnished,3032,2460,Penthouse,0,6,12,0,Yes,No,1.04,2.84,2.65,856.68
+PROP0743,Sector 56,2,1,Fully-Furnished,2944,2412,Apartment,12,13,18,0,No,Yes,2.1,1.38,0.94,448.86
+PROP0744,Sector 56,2,3,Fully-Furnished,4246,3525,Penthouse,19,11,12,0,No,No,4.69,1.84,1.6,705.6
+PROP0745,Palam Vihar,3,3,Unfurnished,2499,2093,Apartment,2,2,5,0,No,No,1.95,1.48,1.68,301.88
+PROP0746,Sector 45,5,3,Fully-Furnished,2834,2394,Studio,19,4,11,2,Yes,Yes,3.35,2.81,0.88,420.26
+PROP0747,DLF Phase 1,2,4,Unfurnished,856,723,Penthouse,3,16,24,1,Yes,Yes,1.35,0.32,1.11,133.84
+PROP0748,Sushant Lok,4,2,Semi-Furnished,2520,2113,Penthouse,10,9,11,1,Yes,Yes,0.72,1.55,3.96,445.85
+PROP0749,Golf Course Road,2,2,Unfurnished,3520,2856,Builder Floor,1,9,12,3,No,Yes,0.39,2.09,0.92,529.39
+PROP0750,Sushant Lok,5,3,Semi-Furnished,865,693,Independent House,13,10,14,2,No,Yes,1.6,2.4,0.24,126.62
+PROP0751,DLF Phase 1,5,1,Fully-Furnished,1979,1621,Apartment,11,16,21,0,No,Yes,0.87,1.79,3.18,238.21
+PROP0752,Sector 56,4,1,Semi-Furnished,1673,1350,Apartment,16,4,7,1,No,No,0.95,2.74,4.88,225.41
+PROP0753,Sector 45,2,2,Fully-Furnished,976,815,Builder Floor,11,12,17,1,Yes,Yes,3.83,2.83,1.72,174.68
+PROP0754,Sector 56,5,1,Unfurnished,2812,2342,Builder Floor,11,9,17,2,No,No,0.18,0.29,0.68,506.27
+PROP0755,Sector 57,3,2,Fully-Furnished,1563,1253,Independent House,0,8,16,3,Yes,No,2.83,1.27,2.89,442.41
+PROP0756,Sector 56,1,3,Unfurnished,3920,3299,Independent House,12,16,18,3,Yes,Yes,1.96,0.17,4.54,609.69
+PROP0757,Sector 56,1,2,Unfurnished,4361,3543,Penthouse,13,0,6,0,No,No,2.58,1.06,3.94,680.43
+PROP0758,DLF Phase 1,1,2,Semi-Furnished,3091,2539,Studio,1,3,7,3,Yes,Yes,2.86,1.66,3.15,285.39
+PROP0759,DLF Phase 1,2,3,Semi-Furnished,4923,4102,Independent House,11,3,12,1,Yes,No,1.64,2.74,1.64,559.45
+PROP0760,DLF Phase 1,4,1,Semi-Furnished,2692,2211,Builder Floor,15,17,19,3,Yes,Yes,1.55,2.56,2.76,282.38
+PROP0761,Sushant Lok,5,2,Semi-Furnished,2956,2430,Independent House,3,8,16,0,Yes,Yes,3.69,0.47,0.55,561.36
+PROP0762,Sector 57,3,2,Fully-Furnished,4954,3979,Apartment,7,17,18,1,No,Yes,4.37,0.37,3.43,900.49
+PROP0763,DLF Phase 1,3,3,Fully-Furnished,1772,1453,Studio,1,13,19,3,No,Yes,1.04,1.81,3.65,207.25
+PROP0764,Sector 45,2,1,Fully-Furnished,4758,3988,Penthouse,9,14,15,3,Yes,No,0.58,1.64,4.83,1219.84
+PROP0765,Sushant Lok,1,2,Unfurnished,979,827,Apartment,8,5,7,2,No,No,4.5,0.87,1.38,74.99
+PROP0766,Palam Vihar,2,3,Fully-Furnished,2674,2194,Apartment,14,9,12,0,Yes,No,1.81,2.71,0.19,283.29
+PROP0767,Sector 45,4,2,Fully-Furnished,1094,898,Studio,12,14,23,3,No,No,2.8,2.79,2.77,167.12
+PROP0768,Golf Course Road,4,4,Fully-Furnished,3862,3225,Penthouse,16,3,8,2,No,No,1.86,1.27,3.56,697.9
+PROP0769,Golf Course Road,5,3,Semi-Furnished,3355,2842,Builder Floor,15,17,19,1,No,Yes,0.72,2.68,3.97,474.24
+PROP0770,Sector 45,5,1,Fully-Furnished,3767,3063,Penthouse,1,17,22,2,No,Yes,2.99,1.21,1.05,1433.16
+PROP0771,DLF Phase 1,4,1,Unfurnished,2372,1949,Independent House,19,16,21,2,No,Yes,2.67,2.24,1.38,224.14
+PROP0772,Palam Vihar,4,1,Semi-Furnished,2351,1974,Apartment,19,11,12,3,Yes,Yes,1.09,1.48,2.61,241.53
+PROP0773,Palam Vihar,4,1,Unfurnished,990,822,Independent House,13,6,9,3,No,Yes,2.31,0.46,1.72,135.83
+PROP0774,Sushant Lok,2,2,Fully-Furnished,2269,1827,Builder Floor,2,15,20,3,Yes,No,4.01,2.79,4.32,288.81
+PROP0775,Palam Vihar,4,2,Semi-Furnished,4703,3910,Independent House,11,10,19,2,Yes,Yes,2.99,1.42,2.42,761.45
+PROP0776,Golf Course Road,3,1,Unfurnished,2392,1935,Penthouse,7,13,14,1,No,Yes,0.57,2.23,4.02,449.49
+PROP0777,Sector 57,1,1,Fully-Furnished,4291,3542,Independent House,1,2,10,0,Yes,No,2.79,1.16,2.95,1008.51
+PROP0778,DLF Phase 1,4,1,Unfurnished,4337,3584,Builder Floor,3,18,19,2,No,No,3.54,0.15,3.89,489.25
+PROP0779,Palam Vihar,1,2,Unfurnished,2367,1997,Builder Floor,13,17,26,3,Yes,Yes,3.98,0.39,1.73,218.9
+PROP0780,Sushant Lok,2,1,Unfurnished,3454,2843,Builder Floor,15,9,15,0,Yes,Yes,3.18,1.54,4.17,289.69
+PROP0781,Golf Course Road,1,1,Fully-Furnished,1200,976,Penthouse,18,5,6,1,No,No,0.85,2.1,1.45,165.9
+PROP0782,Sector 57,2,4,Fully-Furnished,1235,1002,Builder Floor,1,12,20,0,No,Yes,3.58,1.07,2.78,264.15
+PROP0783,Sector 56,3,4,Unfurnished,1004,847,Apartment,11,9,14,3,No,Yes,3.42,2.12,1.15,136.6
+PROP0784,Sector 56,2,1,Semi-Furnished,3240,2619,Builder Floor,13,17,24,2,No,Yes,0.22,2.13,2.43,492.68
+PROP0785,Sector 57,2,3,Semi-Furnished,2589,2126,Independent House,5,19,26,2,Yes,No,2.12,2.14,1.66,568.59
+PROP0786,Golf Course Road,5,1,Fully-Furnished,3101,2509,Independent House,12,15,22,3,No,Yes,1.73,1.53,1.41,624.3
+PROP0787,Sushant Lok,4,4,Fully-Furnished,2988,2505,Independent House,3,5,11,2,Yes,Yes,3.38,2.75,4.84,543.79
+PROP0788,Sector 57,4,3,Fully-Furnished,2270,1869,Penthouse,17,12,20,3,Yes,No,1.16,1.52,0.88,555.48
+PROP0789,DLF Phase 1,3,3,Fully-Furnished,3645,2979,Independent House,11,3,12,2,Yes,No,3.0,1.41,3.96,470.9
+PROP0790,DLF Phase 1,3,1,Fully-Furnished,3985,3259,Penthouse,19,13,15,2,Yes,No,4.57,0.68,4.92,455.18
+PROP0791,Sector 56,4,4,Semi-Furnished,861,725,Penthouse,18,0,7,2,Yes,Yes,4.01,0.99,0.2,180.82
+PROP0792,Palam Vihar,5,4,Fully-Furnished,1670,1382,Builder Floor,7,19,21,1,Yes,No,4.62,0.22,3.53,271.24
+PROP0793,Sushant Lok,4,3,Unfurnished,3795,3172,Apartment,6,4,10,1,No,Yes,4.89,1.94,1.34,399.29
+PROP0794,Sector 56,5,1,Unfurnished,2423,2047,Builder Floor,15,7,9,3,Yes,No,0.15,0.82,0.3,410.69
+PROP0795,Palam Vihar,3,2,Semi-Furnished,3582,3027,Builder Floor,18,11,17,1,Yes,Yes,3.15,0.98,2.07,375.62
+PROP0796,Palam Vihar,1,2,Unfurnished,2257,1842,Penthouse,5,1,3,3,Yes,No,2.12,2.34,4.68,326.2
+PROP0797,DLF Phase 1,3,4,Semi-Furnished,2441,2069,Penthouse,19,11,12,0,No,Yes,4.31,1.05,0.16,268.91
+PROP0798,Golf Course Road,3,2,Semi-Furnished,1466,1174,Independent House,10,4,11,0,No,Yes,1.33,0.8,2.98,246.71
+PROP0799,Sector 45,2,4,Unfurnished,1884,1542,Independent House,4,4,7,1,Yes,No,4.91,0.59,2.56,369.51
+PROP0800,Golf Course Road,2,4,Fully-Furnished,3342,2823,Builder Floor,15,12,16,0,No,No,3.11,2.35,4.38,373.27
+PROP0801,Sector 45,2,4,Unfurnished,2619,2131,Studio,6,8,14,0,Yes,Yes,3.99,0.48,0.51,372.53
+PROP0802,Sector 57,2,2,Unfurnished,4052,3296,Studio,4,9,14,2,No,No,0.52,1.42,3.44,557.35
+PROP0803,DLF Phase 1,5,4,Semi-Furnished,4380,3570,Independent House,10,0,4,2,Yes,Yes,1.0,1.57,3.43,674.57
+PROP0804,Palam Vihar,4,3,Unfurnished,3074,2553,Studio,14,2,11,3,No,No,3.82,2.09,3.38,253.36
+PROP0805,Sushant Lok,1,1,Semi-Furnished,3984,3274,Independent House,2,17,23,0,No,No,0.21,1.94,4.72,521.59
+PROP0806,Sector 45,3,1,Fully-Furnished,2088,1746,Penthouse,4,11,17,3,No,Yes,4.1,2.45,4.13,603.73
+PROP0807,Golf Course Road,5,4,Fully-Furnished,2542,2147,Builder Floor,4,2,4,3,Yes,No,0.17,0.23,0.31,554.39
+PROP0808,Palam Vihar,1,1,Fully-Furnished,3793,3162,Apartment,8,8,14,0,Yes,No,3.32,0.96,2.41,414.34
+PROP0809,Sector 45,5,2,Unfurnished,2422,1962,Builder Floor,14,1,8,1,Yes,Yes,1.89,0.91,2.05,441.41
+PROP0810,Sector 45,5,2,Semi-Furnished,3271,2769,Independent House,2,2,10,0,No,Yes,3.1,0.52,1.62,967.35
+PROP0811,Sector 45,3,1,Fully-Furnished,1578,1283,Independent House,5,13,21,2,No,No,3.51,0.94,2.31,386.12
+PROP0812,Sushant Lok,4,2,Semi-Furnished,3319,2680,Builder Floor,16,3,12,0,Yes,Yes,1.78,1.0,1.98,367.59
+PROP0813,DLF Phase 1,2,1,Semi-Furnished,4418,3554,Independent House,7,18,21,1,No,No,0.63,1.61,2.22,541.25
+PROP0814,Sushant Lok,4,1,Fully-Furnished,4448,3683,Studio,10,12,19,3,Yes,No,0.44,2.02,4.9,486.2
+PROP0815,Sector 56,3,1,Fully-Furnished,3842,3095,Studio,5,6,13,3,Yes,Yes,2.99,1.21,0.53,701.05
+PROP0816,Palam Vihar,3,4,Semi-Furnished,3932,3172,Independent House,7,11,12,2,Yes,Yes,2.65,2.19,4.62,636.68
+PROP0817,DLF Phase 1,3,1,Fully-Furnished,3143,2561,Independent House,9,2,10,2,Yes,Yes,3.74,1.07,2.45,449.63
+PROP0818,DLF Phase 1,1,4,Semi-Furnished,3255,2649,Studio,2,8,12,2,No,Yes,2.6,0.94,3.16,283.96
+PROP0819,DLF Phase 1,4,1,Semi-Furnished,1361,1129,Independent House,13,1,6,3,No,Yes,2.17,1.67,4.17,166.77
+PROP0820,Golf Course Road,4,1,Fully-Furnished,2664,2239,Independent House,13,8,14,2,No,Yes,2.05,0.17,1.87,488.56
+PROP0821,DLF Phase 1,5,1,Unfurnished,2693,2256,Builder Floor,9,11,14,0,Yes,No,0.23,0.33,2.21,324.37
+PROP0822,Sushant Lok,5,2,Fully-Furnished,4825,3923,Apartment,11,11,16,3,No,No,1.74,1.31,2.11,588.62
+PROP0823,DLF Phase 1,5,4,Unfurnished,2610,2120,Studio,5,14,19,1,Yes,Yes,4.88,2.83,1.94,262.71
+PROP0824,Sector 57,3,4,Semi-Furnished,3107,2635,Builder Floor,11,1,2,3,Yes,No,4.38,2.19,4.64,500.59
+PROP0825,Palam Vihar,4,1,Semi-Furnished,3039,2432,Apartment,13,17,20,0,Yes,No,1.71,0.36,4.16,348.74
+PROP0826,DLF Phase 1,3,1,Unfurnished,3474,2932,Independent House,1,12,15,0,Yes,No,2.98,2.55,0.63,480.78
+PROP0827,Palam Vihar,1,2,Semi-Furnished,3942,3192,Independent House,8,13,14,2,Yes,No,4.25,2.22,0.63,505.59
+PROP0828,Sector 57,5,2,Unfurnished,1745,1478,Builder Floor,9,4,11,3,Yes,Yes,2.26,1.87,2.2,350.53
+PROP0829,Sector 57,3,2,Unfurnished,3020,2467,Independent House,16,9,10,3,No,No,0.19,2.48,0.58,492.62
+PROP0830,Palam Vihar,3,4,Semi-Furnished,4268,3508,Penthouse,16,11,18,3,No,No,0.47,1.27,3.13,613.27
+PROP0831,Sector 45,1,4,Unfurnished,2745,2293,Builder Floor,2,9,13,1,No,Yes,2.6,0.74,0.8,465.64
+PROP0832,Sector 56,2,4,Fully-Furnished,1969,1633,Apartment,18,10,19,2,No,Yes,4.85,1.58,2.66,233.68
+PROP0833,Golf Course Road,4,1,Fully-Furnished,3549,2895,Builder Floor,0,1,8,0,Yes,Yes,3.5,1.69,0.14,759.43
+PROP0834,Sector 45,2,4,Semi-Furnished,4259,3525,Studio,11,4,9,0,Yes,Yes,0.45,1.66,1.65,621.36
+PROP0835,Sector 45,5,3,Semi-Furnished,1065,890,Builder Floor,6,6,13,2,No,No,1.03,1.74,3.42,235.56
+PROP0836,Sushant Lok,3,3,Unfurnished,4062,3258,Independent House,3,5,14,0,No,Yes,3.88,2.85,2.47,551.81
+PROP0837,Golf Course Road,1,2,Unfurnished,4250,3402,Independent House,9,2,8,0,No,No,4.22,2.72,4.89,485.65
+PROP0838,Golf Course Road,1,4,Unfurnished,2738,2253,Penthouse,12,12,13,2,No,No,3.13,2.64,4.38,344.68
+PROP0839,Sector 45,4,3,Unfurnished,4929,3975,Penthouse,1,2,8,0,No,Yes,3.26,2.42,1.86,1420.66
+PROP0840,DLF Phase 1,2,2,Fully-Furnished,4104,3419,Penthouse,9,5,6,3,No,Yes,0.24,2.84,0.32,642.89
+PROP0841,Sushant Lok,4,4,Fully-Furnished,4049,3282,Apartment,3,10,14,1,No,Yes,4.16,0.39,4.24,547.11
+PROP0842,Sushant Lok,3,1,Semi-Furnished,3940,3237,Penthouse,17,16,24,2,No,Yes,3.96,0.87,4.57,475.4
+PROP0843,Sector 57,4,3,Unfurnished,1432,1159,Apartment,4,9,14,1,Yes,Yes,1.37,1.54,4.12,274.38
+PROP0844,Golf Course Road,1,1,Unfurnished,1712,1416,Penthouse,18,11,16,0,Yes,Yes,3.57,2.55,0.73,205.97
+PROP0845,Sector 45,1,4,Semi-Furnished,2748,2214,Apartment,1,16,24,0,Yes,No,1.15,1.56,4.99,465.82
+PROP0846,Sector 57,5,3,Unfurnished,1908,1528,Builder Floor,11,3,11,3,Yes,No,0.3,2.27,1.37,363.05
+PROP0847,Palam Vihar,5,4,Unfurnished,2544,2041,Builder Floor,16,1,2,2,No,No,1.09,0.5,3.65,278.34
+PROP0848,Sector 56,3,1,Unfurnished,4531,3840,Independent House,9,10,15,0,Yes,No,0.98,0.83,4.55,867.4
+PROP0849,Sushant Lok,2,3,Unfurnished,4262,3439,Apartment,1,6,11,2,No,Yes,1.75,2.22,1.25,456.95
+PROP0850,Palam Vihar,4,1,Unfurnished,3446,2878,Studio,5,1,9,2,Yes,Yes,2.15,0.58,4.55,406.84
+PROP0851,Palam Vihar,3,4,Semi-Furnished,4404,3538,Independent House,7,17,18,2,No,No,2.59,1.12,1.62,675.3
+PROP0852,DLF Phase 1,5,4,Unfurnished,4091,3294,Builder Floor,18,3,10,2,No,No,2.44,0.87,4.88,338.61
+PROP0853,Sector 56,4,1,Semi-Furnished,2601,2146,Apartment,10,7,14,2,Yes,No,1.43,1.11,1.48,451.43
+PROP0854,Palam Vihar,5,3,Unfurnished,1644,1353,Penthouse,11,19,28,1,Yes,Yes,0.24,2.15,4.77,306.73
+PROP0855,Palam Vihar,4,1,Fully-Furnished,2959,2507,Studio,8,13,15,3,No,Yes,3.06,1.17,0.36,379.33
+PROP0856,Sector 56,2,4,Fully-Furnished,3892,3297,Builder Floor,1,11,14,2,No,Yes,2.04,1.71,3.58,817.54
+PROP0857,Sector 56,3,1,Fully-Furnished,2632,2208,Independent House,7,17,21,1,No,No,1.56,0.39,2.71,610.99
+PROP0858,Palam Vihar,4,4,Fully-Furnished,3600,2988,Apartment,10,10,11,0,Yes,No,4.35,2.43,2.44,459.1
+PROP0859,Sector 56,1,1,Semi-Furnished,1196,984,Studio,3,7,14,2,Yes,Yes,3.76,1.17,1.2,172.8
+PROP0860,Palam Vihar,1,3,Semi-Furnished,3941,3222,Apartment,9,1,4,0,No,Yes,4.3,1.98,3.56,368.87
+PROP0861,Palam Vihar,4,3,Unfurnished,4213,3569,Penthouse,19,14,17,2,Yes,No,2.53,2.2,1.03,550.35
+PROP0862,DLF Phase 1,4,1,Fully-Furnished,3768,3127,Independent House,15,8,11,1,No,No,0.74,0.71,2.81,478.6
+PROP0863,Sector 45,4,1,Semi-Furnished,4862,4030,Apartment,7,18,26,1,Yes,Yes,3.51,2.67,1.34,944.41
+PROP0864,Palam Vihar,1,3,Unfurnished,4271,3466,Builder Floor,3,19,28,1,Yes,No,1.11,1.89,4.78,484.49
+PROP0865,Sector 57,1,4,Unfurnished,4592,3684,Independent House,9,7,9,3,Yes,Yes,2.26,1.34,0.24,819.86
+PROP0866,Sushant Lok,4,3,Semi-Furnished,4720,3999,Builder Floor,11,18,19,0,Yes,Yes,0.42,0.63,1.08,624.52
+PROP0867,Golf Course Road,5,4,Fully-Furnished,4165,3397,Apartment,13,4,13,3,Yes,No,4.14,2.83,1.29,589.51
+PROP0868,Sector 45,5,1,Unfurnished,3631,2985,Independent House,15,10,16,2,No,No,0.72,2.29,2.13,696.01
+PROP0869,Sector 45,2,1,Fully-Furnished,824,663,Builder Floor,17,14,23,0,No,No,4.53,0.7,1.24,114.47
+PROP0870,Sector 45,3,4,Fully-Furnished,2756,2320,Penthouse,11,7,13,1,Yes,Yes,4.33,1.08,2.51,727.85
+PROP0871,DLF Phase 1,5,1,Fully-Furnished,3198,2562,Penthouse,17,18,20,0,No,No,2.38,2.45,4.38,442.43
+PROP0872,Palam Vihar,1,4,Unfurnished,2076,1747,Apartment,6,7,8,1,No,No,3.75,2.12,3.59,182.4
+PROP0873,DLF Phase 1,5,2,Fully-Furnished,2136,1723,Independent House,19,18,26,3,Yes,Yes,3.14,2.32,2.94,265.29
+PROP0874,Palam Vihar,2,3,Unfurnished,4836,4083,Studio,6,17,20,3,No,Yes,4.04,1.38,0.54,452.44
+PROP0875,DLF Phase 1,2,2,Fully-Furnished,4545,3801,Independent House,8,9,10,1,Yes,No,2.22,2.18,3.5,591.57
+PROP0876,DLF Phase 1,3,4,Unfurnished,4366,3528,Penthouse,0,6,14,1,No,Yes,3.95,1.22,0.92,704.18
+PROP0877,Sushant Lok,5,3,Fully-Furnished,2505,2074,Builder Floor,5,8,9,2,No,Yes,2.37,0.71,3.95,396.79
+PROP0878,Sector 57,1,4,Semi-Furnished,857,698,Studio,5,0,8,3,No,Yes,4.71,1.93,1.33,113.6
+PROP0879,DLF Phase 1,1,3,Fully-Furnished,1136,918,Apartment,11,18,19,3,No,No,2.48,2.93,2.14,92.28
+PROP0880,Sushant Lok,4,3,Fully-Furnished,2111,1779,Studio,11,4,13,2,No,No,2.37,1.0,1.82,214.81
+PROP0881,Sector 56,1,3,Unfurnished,866,710,Apartment,9,18,27,3,No,Yes,3.95,1.44,4.31,101.0
+PROP0882,Sector 57,3,3,Unfurnished,872,714,Studio,5,0,9,1,No,Yes,4.13,2.05,0.72,126.4
+PROP0883,DLF Phase 1,3,4,Fully-Furnished,4649,3758,Apartment,16,14,17,0,Yes,Yes,2.82,1.67,2.87,428.22
+PROP0884,Golf Course Road,1,3,Semi-Furnished,3765,3084,Apartment,18,15,19,0,Yes,No,0.98,2.55,0.8,333.77
+PROP0885,Sector 45,1,3,Semi-Furnished,2097,1768,Studio,17,6,11,3,Yes,Yes,2.39,2.31,3.55,222.13
+PROP0886,Sector 56,4,2,Unfurnished,1357,1110,Studio,5,11,17,2,Yes,Yes,4.84,0.27,4.53,206.84
+PROP0887,Sector 56,1,1,Semi-Furnished,2948,2498,Apartment,18,7,16,1,No,No,3.79,3.0,2.23,283.67
+PROP0888,Sushant Lok,4,1,Fully-Furnished,822,696,Penthouse,9,4,8,0,No,Yes,4.07,2.28,2.49,145.47
+PROP0889,Sector 56,4,2,Unfurnished,4741,3827,Studio,7,9,15,1,No,No,0.26,2.61,4.64,672.87
+PROP0890,Sector 57,1,2,Fully-Furnished,2542,2056,Independent House,5,4,5,3,Yes,No,2.39,1.99,2.65,550.37
+PROP0891,DLF Phase 1,2,4,Unfurnished,2489,2098,Builder Floor,6,16,18,3,Yes,No,3.27,2.58,2.49,235.54
+PROP0892,DLF Phase 1,2,4,Unfurnished,2440,1999,Apartment,0,4,12,0,Yes,Yes,4.17,0.43,2.93,249.92
+PROP0893,Golf Course Road,4,4,Unfurnished,1091,873,Apartment,17,14,18,3,No,Yes,0.34,1.11,3.48,115.43
+PROP0894,Sector 45,1,2,Unfurnished,3480,2831,Builder Floor,19,12,19,2,Yes,No,4.28,2.64,0.62,361.35
+PROP0895,Sushant Lok,2,2,Semi-Furnished,3878,3218,Penthouse,11,0,4,3,No,Yes,2.79,0.68,4.12,526.9
+PROP0896,Sector 45,1,3,Fully-Furnished,3639,3056,Builder Floor,15,10,19,3,Yes,No,1.07,0.33,2.23,551.8
+PROP0897,Sector 56,1,4,Fully-Furnished,1381,1114,Studio,9,0,9,3,No,Yes,1.65,2.39,0.45,188.17
+PROP0898,Golf Course Road,1,4,Fully-Furnished,3231,2602,Builder Floor,9,10,14,1,Yes,No,1.48,2.52,3.95,422.18
+PROP0899,Sector 45,5,4,Unfurnished,3191,2699,Apartment,13,17,25,1,No,No,2.7,0.57,1.95,486.72
+PROP0900,Sector 57,1,1,Semi-Furnished,4447,3724,Builder Floor,19,17,23,0,Yes,Yes,0.35,2.58,0.59,571.8
+PROP0901,DLF Phase 1,5,3,Fully-Furnished,2392,1984,Independent House,9,15,16,0,Yes,Yes,0.88,2.09,3.21,411.7
+PROP0902,Sector 56,4,4,Semi-Furnished,2360,1978,Studio,9,12,19,0,No,Yes,4.08,1.61,4.41,344.87
+PROP0903,Golf Course Road,2,4,Unfurnished,3397,2790,Builder Floor,10,6,7,3,No,Yes,0.75,2.51,4.45,397.56
+PROP0904,Sector 45,2,4,Fully-Furnished,3458,2897,Apartment,1,0,3,1,Yes,No,1.24,1.32,4.79,699.48
+PROP0905,Sushant Lok,2,1,Semi-Furnished,2770,2267,Studio,19,15,23,2,No,No,2.32,0.66,4.35,172.27
+PROP0906,Sector 57,2,1,Unfurnished,2660,2160,Apartment,7,0,9,3,Yes,Yes,2.63,0.93,0.11,417.0
+PROP0907,Sector 57,2,2,Semi-Furnished,2875,2404,Penthouse,6,16,19,3,No,Yes,3.84,1.56,1.96,688.72
+PROP0908,Sector 45,2,3,Fully-Furnished,4416,3625,Independent House,7,5,6,3,Yes,No,2.29,1.64,4.11,1000.98
+PROP0909,DLF Phase 1,2,2,Fully-Furnished,2736,2323,Penthouse,0,1,2,2,No,Yes,3.97,2.44,1.89,477.84
+PROP0910,Sector 45,4,3,Unfurnished,4747,3880,Independent House,1,16,23,0,Yes,Yes,3.13,2.39,3.05,1233.76
+PROP0911,Sector 56,1,1,Unfurnished,2916,2467,Builder Floor,17,5,10,2,Yes,Yes,0.65,1.79,3.07,341.98
+PROP0912,Sector 45,3,4,Unfurnished,4786,4052,Studio,14,13,14,0,Yes,Yes,0.87,2.36,1.89,623.39
+PROP0913,Sector 57,5,2,Semi-Furnished,4297,3489,Builder Floor,0,17,23,2,No,No,2.24,0.66,4.53,1038.31
+PROP0914,Golf Course Road,3,4,Semi-Furnished,2322,1950,Independent House,4,5,11,1,Yes,No,2.04,0.25,2.57,447.16
+PROP0915,Sector 45,3,2,Semi-Furnished,4427,3637,Independent House,1,9,13,3,No,Yes,3.74,2.63,2.38,1109.62
+PROP0916,DLF Phase 1,1,1,Unfurnished,1262,1067,Independent House,19,17,24,3,No,No,2.95,0.32,4.99,87.14
+PROP0917,Golf Course Road,1,1,Fully-Furnished,4685,3853,Apartment,2,8,15,3,No,Yes,2.0,0.82,2.52,665.55
+PROP0918,Sushant Lok,1,1,Fully-Furnished,3452,2890,Studio,18,7,16,0,Yes,Yes,0.94,2.12,0.97,256.45
+PROP0919,Palam Vihar,2,2,Semi-Furnished,1028,846,Builder Floor,17,9,10,2,No,Yes,1.21,1.29,2.61,100.9
+PROP0920,Sector 45,4,3,Semi-Furnished,3505,2843,Builder Floor,17,16,21,1,No,No,2.92,2.64,4.09,513.36
+PROP0921,DLF Phase 1,2,2,Fully-Furnished,4891,3961,Penthouse,13,5,8,2,No,No,2.17,0.96,3.91,621.96
+PROP0922,Golf Course Road,4,3,Fully-Furnished,1093,897,Independent House,7,13,20,3,Yes,No,2.62,0.13,3.96,225.37
+PROP0923,DLF Phase 1,4,2,Semi-Furnished,3129,2621,Independent House,11,5,9,1,No,No,0.94,0.97,3.57,400.1
+PROP0924,Sushant Lok,3,2,Semi-Furnished,3940,3271,Independent House,9,6,10,1,No,No,3.35,1.78,1.35,505.95
+PROP0925,Sector 57,3,1,Fully-Furnished,4203,3507,Builder Floor,19,11,12,3,No,Yes,4.28,1.19,4.32,596.5
+PROP0926,DLF Phase 1,4,4,Unfurnished,2538,2066,Penthouse,16,2,3,2,No,Yes,1.36,1.65,4.48,303.92
+PROP0927,Golf Course Road,4,4,Semi-Furnished,1657,1365,Apartment,10,13,15,3,Yes,No,2.51,2.64,1.05,225.62
+PROP0928,DLF Phase 1,2,3,Fully-Furnished,977,783,Studio,1,18,20,2,Yes,No,4.88,2.75,0.74,99.18
+PROP0929,DLF Phase 1,2,4,Fully-Furnished,3234,2719,Apartment,3,15,16,1,No,No,1.73,0.87,4.88,348.24
+PROP0930,DLF Phase 1,3,2,Fully-Furnished,2702,2295,Builder Floor,0,6,14,1,No,Yes,3.02,1.44,4.35,376.86
+PROP0931,Sector 56,1,2,Fully-Furnished,4784,3924,Independent House,14,7,13,3,No,No,0.54,1.69,4.48,778.39
+PROP0932,Sector 56,4,1,Unfurnished,1054,843,Studio,12,17,23,1,No,Yes,3.07,2.85,4.44,130.92
+PROP0933,Sector 57,2,1,Fully-Furnished,3678,2973,Builder Floor,7,12,21,0,Yes,Yes,0.54,3.0,2.75,757.51
+PROP0934,Sector 45,3,4,Semi-Furnished,904,752,Builder Floor,3,8,13,1,Yes,No,4.8,0.78,3.27,181.43
+PROP0935,DLF Phase 1,2,3,Unfurnished,1520,1262,Builder Floor,9,9,13,0,Yes,Yes,3.61,2.21,2.77,139.84
+PROP0936,Sushant Lok,4,4,Fully-Furnished,2705,2270,Studio,18,8,14,1,Yes,Yes,3.96,1.2,0.35,243.79
+PROP0937,Sector 45,4,4,Unfurnished,2710,2202,Studio,17,14,22,3,No,No,3.55,0.12,3.75,299.88
+PROP0938,Sushant Lok,5,4,Semi-Furnished,3679,3083,Penthouse,4,19,20,3,No,Yes,2.99,0.13,2.58,749.77
+PROP0939,Sector 45,1,4,Fully-Furnished,4622,3856,Penthouse,18,1,8,0,Yes,No,2.3,1.44,3.27,833.38
+PROP0940,Sector 57,5,2,Semi-Furnished,3483,2842,Apartment,15,12,20,3,Yes,Yes,4.31,1.52,2.56,571.54
+PROP0941,DLF Phase 1,3,3,Fully-Furnished,4804,3974,Studio,0,1,10,1,No,No,4.79,0.17,2.51,518.7
+PROP0942,DLF Phase 1,2,2,Fully-Furnished,4502,3634,Studio,11,18,26,1,No,No,2.55,2.09,0.94,366.07
+PROP0943,Palam Vihar,3,3,Fully-Furnished,3254,2676,Studio,1,1,8,3,No,Yes,4.66,0.95,1.47,432.61
+PROP0944,Sushant Lok,4,1,Fully-Furnished,4301,3630,Penthouse,7,2,5,1,No,No,2.96,1.72,0.88,796.04
+PROP0945,Sector 45,5,4,Fully-Furnished,3498,2872,Builder Floor,17,5,7,2,No,Yes,2.74,0.97,1.06,662.29
+PROP0946,Sector 45,5,2,Unfurnished,1129,950,Independent House,15,2,5,2,Yes,Yes,2.33,0.58,4.87,228.27
+PROP0947,Sector 56,5,3,Fully-Furnished,3910,3243,Penthouse,4,9,13,1,Yes,No,1.13,1.28,0.85,1383.14
+PROP0948,Palam Vihar,3,1,Fully-Furnished,1198,969,Studio,12,5,9,3,No,Yes,0.12,0.77,1.42,136.2
+PROP0949,Golf Course Road,4,1,Unfurnished,3295,2731,Penthouse,18,15,21,0,No,No,1.28,1.65,2.99,473.6
+PROP0950,Golf Course Road,2,4,Unfurnished,3751,3095,Apartment,2,16,23,3,Yes,Yes,2.6,0.68,3.09,500.06
+PROP0951,Sector 56,2,3,Unfurnished,1079,884,Studio,7,18,22,0,No,Yes,1.96,1.57,0.85,139.88
+PROP0952,Sector 56,3,2,Unfurnished,1769,1425,Apartment,11,2,8,3,Yes,No,2.3,0.56,3.99,243.2
+PROP0953,Sector 56,5,4,Unfurnished,4645,3812,Studio,1,17,26,1,Yes,Yes,4.91,2.05,3.95,814.92
+PROP0954,Sushant Lok,1,2,Unfurnished,3388,2722,Penthouse,10,6,12,2,Yes,Yes,1.82,2.29,1.26,427.14
+PROP0955,Sushant Lok,3,1,Fully-Furnished,1834,1476,Builder Floor,11,8,11,3,Yes,Yes,2.32,0.42,1.51,235.86
+PROP0956,Sector 57,3,2,Fully-Furnished,3700,3036,Independent House,17,19,20,0,No,Yes,0.75,1.46,4.7,706.87
+PROP0957,Sector 57,4,2,Semi-Furnished,3306,2695,Apartment,12,11,16,2,No,Yes,0.33,0.31,4.15,566.75
+PROP0958,Sector 56,2,4,Fully-Furnished,2906,2459,Penthouse,4,4,7,0,Yes,Yes,3.9,1.83,3.52,788.21
+PROP0959,Palam Vihar,3,2,Fully-Furnished,4899,4011,Builder Floor,11,2,10,1,No,Yes,2.9,0.87,0.5,665.19
+PROP0960,Sector 45,3,4,Unfurnished,3670,3075,Penthouse,1,10,11,2,No,Yes,3.83,1.63,2.15,975.21
+PROP0961,Sushant Lok,5,1,Unfurnished,2376,1963,Apartment,4,3,5,0,No,No,0.83,1.6,2.84,287.26
+PROP0962,Palam Vihar,5,4,Fully-Furnished,4160,3474,Independent House,6,4,7,3,No,Yes,2.9,2.78,1.02,847.8
+PROP0963,DLF Phase 1,1,4,Semi-Furnished,4515,3670,Penthouse,11,0,3,1,Yes,Yes,1.34,1.69,2.3,575.66
+PROP0964,Sushant Lok,4,3,Unfurnished,1325,1122,Studio,15,17,25,1,No,No,1.22,1.79,3.05,101.16
+PROP0965,Sushant Lok,1,2,Fully-Furnished,1642,1357,Builder Floor,7,11,16,1,Yes,No,0.16,1.26,1.7,194.1
+PROP0966,Sector 57,5,1,Fully-Furnished,1708,1437,Penthouse,8,12,20,3,Yes,No,0.74,2.85,3.93,549.63
+PROP0967,Sector 45,2,4,Semi-Furnished,3703,3029,Builder Floor,14,8,14,3,No,Yes,1.62,2.35,4.22,548.09
+PROP0968,Sector 45,5,1,Semi-Furnished,3332,2682,Studio,4,1,3,2,Yes,No,0.67,0.93,1.69,684.32
+PROP0969,Golf Course Road,4,3,Unfurnished,3399,2833,Independent House,12,4,8,3,No,No,4.93,2.55,4.21,455.08
+PROP0970,Golf Course Road,5,2,Semi-Furnished,4751,3802,Independent House,4,12,21,2,No,Yes,1.61,1.35,0.61,1074.59
+PROP0971,Golf Course Road,4,4,Fully-Furnished,4058,3342,Studio,10,15,19,1,Yes,Yes,0.74,2.5,4.2,572.87
+PROP0972,Golf Course Road,4,2,Fully-Furnished,1337,1082,Builder Floor,9,15,20,2,No,No,1.08,2.49,0.85,220.46
+PROP0973,DLF Phase 1,4,3,Semi-Furnished,2259,1878,Penthouse,19,2,7,0,Yes,No,2.98,0.65,0.51,275.95
+PROP0974,DLF Phase 1,4,3,Semi-Furnished,2628,2231,Studio,12,3,11,1,Yes,Yes,0.41,2.13,3.24,250.5
+PROP0975,Sushant Lok,4,1,Semi-Furnished,2463,2027,Apartment,8,10,16,1,No,Yes,4.33,0.94,2.41,275.27
+PROP0976,Sector 56,2,4,Semi-Furnished,3611,3036,Builder Floor,13,13,20,2,No,Yes,4.81,0.96,4.55,493.46
+PROP0977,Sector 57,1,1,Unfurnished,4545,3751,Independent House,17,2,8,1,No,Yes,1.31,0.96,1.88,626.38
+PROP0978,Sector 57,3,3,Semi-Furnished,2085,1719,Studio,14,15,20,3,Yes,Yes,2.31,2.2,1.51,287.6
+PROP0979,Golf Course Road,1,2,Unfurnished,3117,2638,Independent House,9,14,19,0,No,No,0.21,0.77,2.55,404.87
+PROP0980,Sushant Lok,4,1,Fully-Furnished,4115,3475,Builder Floor,6,9,12,2,Yes,Yes,3.24,0.1,2.33,627.35
+PROP0981,Palam Vihar,2,1,Semi-Furnished,2548,2138,Independent House,7,8,15,2,Yes,Yes,2.13,2.17,1.79,396.53
+PROP0982,Sector 56,5,2,Unfurnished,1506,1227,Studio,2,10,15,1,No,Yes,1.42,0.6,3.5,270.77
+PROP0983,Sushant Lok,2,1,Semi-Furnished,2794,2311,Builder Floor,14,15,22,3,No,Yes,1.11,0.4,3.82,267.7
+PROP0984,Sector 56,4,2,Fully-Furnished,1031,836,Apartment,15,9,11,1,No,Yes,3.3,0.79,4.28,160.08
+PROP0985,Sector 56,2,4,Fully-Furnished,4758,3912,Studio,3,16,25,1,Yes,No,2.14,1.2,4.87,776.25
+PROP0986,Sector 56,2,2,Fully-Furnished,1114,918,Penthouse,5,18,26,2,No,Yes,0.98,1.48,1.41,306.98
+PROP0987,Sushant Lok,4,4,Semi-Furnished,2641,2222,Studio,0,1,6,1,Yes,No,3.48,0.23,3.61,320.45
+PROP0988,Golf Course Road,2,2,Semi-Furnished,3025,2555,Builder Floor,3,1,3,0,No,Yes,2.87,2.91,2.03,447.13
+PROP0989,Sector 57,3,3,Unfurnished,4938,4052,Studio,10,5,11,1,No,No,4.31,2.18,3.42,586.4
+PROP0990,Sector 57,3,3,Fully-Furnished,1497,1198,Apartment,11,18,26,1,Yes,No,0.68,1.04,2.43,267.71
+PROP0991,Golf Course Road,2,4,Semi-Furnished,1280,1079,Apartment,4,7,14,2,Yes,Yes,3.95,1.02,4.97,170.78
+PROP0992,Sector 56,5,4,Fully-Furnished,836,676,Penthouse,15,2,10,1,No,Yes,3.4,1.4,3.67,208.2
+PROP0993,Palam Vihar,4,3,Fully-Furnished,1453,1207,Independent House,12,13,17,3,No,Yes,0.66,1.92,4.77,242.7
+PROP0994,Sector 45,3,4,Unfurnished,1670,1338,Builder Floor,12,15,18,2,No,Yes,3.5,0.52,4.19,251.68
+PROP0995,Sushant Lok,5,2,Unfurnished,3448,2827,Builder Floor,16,0,7,1,No,Yes,2.26,0.65,4.52,342.83
+PROP0996,Sector 45,2,2,Unfurnished,1722,1462,Independent House,6,2,4,0,No,No,4.73,2.59,4.09,297.93
+PROP0997,Golf Course Road,5,3,Unfurnished,886,713,Apartment,7,17,22,0,Yes,Yes,0.79,0.84,2.35,138.14
+PROP0998,Palam Vihar,1,1,Fully-Furnished,4271,3507,Apartment,12,8,15,2,Yes,Yes,3.25,1.2,1.33,447.72
+PROP0999,Sushant Lok,3,2,Unfurnished,2335,1903,Studio,15,5,6,2,Yes,No,1.97,2.63,1.91,171.67
